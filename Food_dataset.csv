@@ -1,0 +1,727 @@
+﻿Item_id,Item,Store ,suplier,suplier location ,quantity,Item sold,purchase price,total cost,sold price ,Discounts,total sales ,Date,Month Number,Month Name,Year,product feedback,other feedback
+1122,Oranges,Grocery, Grocery Industries Australia Pty Ltd , VIC ,1618,1609, $3.00 ," $4,854.00 ", $3.95 , $-   ," $6,355.55 ",1/1/2020,1, January ,2020,agree,I like your product 
+1123,Apples,Orchard, Complete Food Services , NSW  ,1321,1312, $2.00 ," $2,642.00 ", $2.95 , $-   ," $3,870.40 ",2/1/2020,1, January ,2020,disagree,I don't like this product 
+1124,Bananas,Grocery, Japan Foods Trading , Queensland ,2178,2169, $1.50 ," $3,267.00 ", $2.45 , $-   ," $5,314.05 ",3/1/2020,6, June ,2020,strongly agree,prodict not receive ontime
+1125,Lettuce,Market, Basfoods Direct , Tasmania ,888,879, $1.75 ," $1,554.00 ", $2.70 , $-   ," $2,373.30 ",4/1/2020,6, June ,2020,strongly diagree,receive ontime 
+1126,Tomatoes,Market, Kahvecioglu Grand Foods , Western Australia  ,2470,2461, $2.00 ," $4,940.00 ", $2.95 , $-   ," $7,259.95 ",5/1/2020,6, June ,2020,agree,I like your product 
+1127,Squash,Market, NSM Foods Direct to Public Outlet Store , South Australia  ,1513,1504, $5.00 ," $7,565.00 ", $5.95 , $-   ," $8,948.80 ",6/1/2020,12, December ,2020,disagree,I don't like this product 
+1128,Celery,Grocery, Bera Foods Wholesalers , Northern Territory ,921,912, $4.00 ," $3,684.00 ", $4.95 , $-   ," $4,514.40 ",7/1/2020,3, March ,2020,Extremely Poor,product not receive ontime
+1129,Cucumber,Market, Royal Foods Australia Pty. Ltd. , The Australian Capital Territory ,2518,2509, $3.50 ," $8,813.00 ", $4.45 , $-   ," $11,165.05 ",8/1/2020,6, June ,2020,agree,receive ontime 
+1130,Mushrooms,Grocery, Real Food Distributors , NSW  ,1899,1890, $4.00 ," $7,596.00 ", $4.95 , $-   ," $9,355.50 ",9/1/2020,6, June ,2020,disagree,I like your product 
+1131,Milk ,Home Delivery, Quality Foods , Queensland ,1545,1536, $2.50 ," $3,862.50 ", $3.45 , $-   ," $5,299.20 ",10/1/2020,6, June ,2020,strongly agree,I don't like this product 
+1132,Cheese,Home Delivery, First Ray , Tasmania ,2470,2461, $5.00 ," $12,350.00 ", $5.95 , $-   ," $14,642.95 ",11/1/2020,6, June ,2020,strongly diagree,product was very fresh thanks
+1133,Eggs,Home Delivery, Mediterranean Wholesalers , Western Australia  ,2665,2656, $11.00 ," $29,315.00 ", $11.95 , $-   ," $31,739.20 ",12/1/2020,7, July ,2020,agree,product was notvery fresh thanks
+1134,Cottage cheese,Home Delivery, Bruno Fine Foods , South Australia  ,958,949, $7.00 ," $6,706.00 ", $7.95 , $-   ," $7,544.55 ",13/1/2020,8, August ,2020,disagree,product was very fresh thanks
+1135,Sour cream,Home Delivery, Basfoods Direct - Somerton Store , Northern Territory ,2146,2137, $6.00 ," $12,876.00 ", $6.95 , $-   ," $14,852.15 ",14/1/2020,9, September ,2020,Extremely Poor,product was not very fresh thanks
+1136,Yogurt,Grocery, Glendal Foods , NSW  ,345,336, $4.25 ," $1,466.25 ", $5.20 , $-   ," $1,747.20 ",15/1/2020,10, October ,2020,agree,prodict not receive ontime
+1137,Beef,Market, Grocery Industries Australia Pty Ltd , Queensland ,615,1606, $12.00 ," $7,380.00 ", $12.95 , $-   ," $20,797.70 ",16/1/2020,12, December ,2020,disagree,customer service was very friendly 
+1138,Wild Salmon,Fish Market, Complete Food Services , Tasmania ,292,1309, $20.00 ," $5,840.00 ", $20.95 , $-   ," $27,423.55 ",17/1/2020,2, February ,2020,Extremely Poor,no one response my email
+1139,Oranges,Grocery, Japan Foods Trading , Western Australia  ,974,2166, $11.80 ," $11,489.26 ", $12.75 , $-   ," $27,607.74 ",18/1/2020,2, February ,2020,agree,"there was an issue with my order, team resolve very quickly"
+1140,Apples,Orchard, Basfoods Direct , South Australia  ,2518,876, $12.49 ," $31,447.23 ", $13.44 , $-   ," $11,772.54 ",19/1/2020,6, June ,2020,disagree,I like your product 
+1141,Bananas,Grocery, Kahvecioglu Grand Foods , Northern Territory ,1006,2458, $13.18 ," $13,261.08 ", $14.13 , $-   ," $34,736.42 ",20/1/2020,6, June ,2020,strongly agree,bad quality 
+1142,Lettuce,Market, NSM Foods Direct to Public Outlet Store , The Australian Capital Territory ,367,1501, $13.88 ," $5,092.13 ", $14.83 , $-   ," $22,252.33 ",21/1/2020,7, July ,2020,strongly diagree,good quality 
+1143,Tomatoes,Market, Bera Foods Wholesalers , NSW  ,883,909, $14.57 ," $12,863.56 ", $15.52 , $-   ," $14,105.88 ",22/1/2020,8, August ,2020,agree,tasty 
+1144,Squash,Market, Grocery Industries Australia Pty Ltd , Queensland ,549,2506, $15.26 ," $8,378.31 ", $16.21 , $-   ," $40,624.84 ",23/1/2021,9, September ,2021,Extremely Poor,I like your product 
+1145,Oranges,Grocery, Complete Food Services , Tasmania ,788,1887, $15.95 ," $12,571.79 ", $16.90 , $-   ," $31,897.93 ",24/1/2021,9, September ,2021,agree,I don't like this product 
+1146,Apples,Orchard, Japan Foods Trading , Western Australia  ,2472,1533, $16.65 ," $41,151.53 ", $17.60 , $-   ," $26,976.29 ",25/1/2021,9, September ,2021,disagree,prodict not receive ontime
+1147,Bananas,Grocery, Basfoods Direct , South Australia  ,1143,2458, $3.00 ," $3,429.00 ", $3.95 , $-   ," $9,709.10 ",26/1/2021,10, October ,2021,strongly agree,receive ontime 
+1148,Lettuce,Market, Kahvecioglu Grand Foods , NSW  ,1725,2653, $2.00 ," $3,450.00 ", $2.95 , $-   ," $7,826.35 ",27/1/2021,11, November ,2021,strongly diagree,I like your product 
+1149,Tomatoes,Market, NSM Foods Direct to Public Outlet Store , Queensland ,912,946, $1.50 ," $1,368.00 ", $2.45 , $-   ," $2,317.70 ",28/1/2021,11, November ,2021,agree,I don't like this product 
+1150,Squash,Market, Bera Foods Wholesalers , Tasmania ,2152,2134, $1.75 ," $3,766.00 ", $2.70 , $-   ," $5,761.80 ",29/1/2021,12, December ,2021,disagree,product not receive ontime
+1151,Celery,Grocery, Grocery Industries Australia Pty Ltd , Western Australia  ,1817,333, $2.00 ," $3,634.00 ", $2.95 , $-   , $982.35 ,30/1/2021,12, December ,2021,Extremely Poor,receive ontime 
+1152,Cucumber,Market, Complete Food Services , South Australia  ,1513,603, $5.00 ," $7,565.00 ", $5.95 , $-   ," $3,587.85 ",31/1/2021,12, December ,2021,strongly agree,I like your product 
+1153,Mushrooms,Grocery, Japan Foods Trading , NSW  ,1493,280, $4.00 ," $5,972.00 ", $4.95 , $-   ," $1,386.00 ",1/2/2021,1, January ,2021,strongly diagree,I don't like this product 
+1154,Oranges,Grocery, Basfoods Direct , Queensland ,1804,962, $3.50 ," $6,314.00 ", $4.45 , $-   ," $4,280.90 ",2/2/2021,2, February ,2021,disagree,product was very fresh thanks
+1155,Apples,Orchard, Grocery Industries Australia Pty Ltd , Tasmania ,2161,2506, $4.00 ," $8,644.00 ", $4.95 , $-   ," $12,404.70 ",3/2/2021,3, March ,2021,strongly agree,product was notvery fresh thanks
+1156,Bananas,Grocery, Complete Food Services , Western Australia  ,1006,994, $2.50 ," $2,515.00 ", $3.45 , $-   ," $3,429.30 ",4/2/2021,6, June ,2021,strongly diagree,product was very fresh thanks
+1157,Lettuce,Market, Japan Foods Trading , South Australia  ,1545,355, $5.00 ," $7,725.00 ", $5.95 , $-   ," $2,112.25 ",5/2/2021,6, June ,2021,agree,product was not very fresh thanks
+1158,Tomatoes,Market, Basfoods Direct , Northern Territory ,2821,871, $11.00 ," $31,031.00 ", $11.95 , $-   ," $10,408.45 ",6/2/2021,8, August ,2021,disagree,prodict not receive ontime
+1159,Squash,Market, Kahvecioglu Grand Foods , The Australian Capital Territory ,345,537, $7.00 ," $2,415.00 ", $7.95 , $-   ," $4,269.15 ",7/2/2021,10, October ,2021,Extremely Poor,customer service was very friendly 
+1160,Celery,Grocery, NSM Foods Direct to Public Outlet Store , Northern Territory ,2001,776, $6.00 ," $12,006.00 ", $6.95 , $-   ," $5,393.20 ",8/2/2021,2, February ,2021,strongly agree,no one response my email
+1161,Cucumber,Market, Bera Foods Wholesalers , The Australian Capital Territory ,2838,2460, $4.25 ," $12,061.50 ", $5.20 , $-   ," $12,792.00 ",9/2/2021,4, April ,2021,strongly diagree,"there was an issue with my order, team resolve very quickly"
+1162,Mushrooms,Grocery, Royal Foods Australia Pty. Ltd. , NSW  ,2178,1131, $12.00 ," $26,136.00 ", $12.95 , $-   ," $14,646.45 ",10/2/2021,6, June ,2021,strongly diagree,I like your product 
+1163,Milk ,Home Delivery, Real Food Distributors , Queensland ,888,1713, $20.00 ," $17,760.00 ", $20.95 , $-   ," $35,887.35 ",11/2/2021,6, June ,2021,disagree,bad quality 
+1164,Cheese,Home Delivery, Quality Foods , Tasmania ,1527,900, $11.80 ," $18,012.42 ", $12.75 , $-   ," $11,471.36 ",12/2/2021,9, September ,2021,strongly agree,good quality 
+1165,Eggs,Home Delivery, Basfoods Direct , Western Australia  ,2151,2140, $12.49 ," $26,863.78 ", $13.44 , $-   ," $28,759.40 ",13/2/2021,9, September ,2021,strongly diagree,tasty 
+1166,Cottage cheese,Home Delivery, Kahvecioglu Grand Foods , South Australia  ,1817,1805, $13.18 ," $23,951.67 ", $14.13 , $-   ," $25,508.23 ",14/2/2021,12, December ,2021,agree,I like your product 
+1167,Sour cream,Home Delivery, NSM Foods Direct to Public Outlet Store , Northern Territory ,2750,1501, $13.88 ," $38,156.25 ", $14.83 , $-   ," $22,252.33 ",15/2/2021,2, February ,2021,disagree,I don't like this product 
+1168,Yogurt,Grocery, Bera Foods Wholesalers , The Australian Capital Territory ,1953,1948, $14.57 ," $28,451.33 ", $15.52 , $-   ," $30,229.09 ",16/2/2021,4, April ,2021,Extremely Poor,product not receive ontime
+1169,Beef,Market, Royal Foods Australia Pty. Ltd. , NSW  ,4219.5,4214.5, $15.26 ," $64,393.91 ", $16.21 , $-   ," $68,321.38 ",17/2/2021,4, April ,2021,strongly agree,receive ontime 
+1170,Wild Salmon,Fish Market, Real Food Distributors , Queensland ,1899,1894, $15.95 ," $30,296.73 ", $16.90 , $-   ," $32,016.26 ",18/2/2021,6, June ,2021,strongly diagree,I like your product 
+1171,Oranges,Grocery, Quality Foods , Tasmania ,1686,1681, $16.65 ," $28,066.94 ", $17.60 , $-   ," $29,580.66 ",19/2/2021,7, July ,2021,agree,I don't like this product 
+1172,Apples,Orchard, First Ray , Western Australia  ,2141,2136, $3.00 ," $6,423.00 ", $3.95 , $-   ," $8,437.20 ",20/2/2021,8, August ,2021,disagree,product was very fresh thanks
+1173,Bananas,Grocery, Mediterranean Wholesalers , South Australia  ,1143,1138, $2.00 ," $2,286.00 ", $2.95 , $-   ," $3,357.10 ",21/2/2021,10, October ,2021,strongly agree,product was notvery fresh thanks
+1174,Lettuce,Market, Bruno Fine Foods , Northern Territory ,615,610, $1.50 , $922.50 , $2.45 , $-   ," $1,494.50 ",22/2/2021,12, December ,2021,strongly diagree,product was very fresh thanks
+1175,Tomatoes,Market, Basfoods Direct - Somerton Store , The Australian Capital Territory ,3945,3940, $1.75 ," $6,903.75 ", $2.70 , $-   ," $10,638.00 ",23/2/2021,1, January ,2021,agree,product was not very fresh thanks
+1176,Squash,Market, Glendal Foods , NSW  ,2296,2291, $2.00 ," $4,592.00 ", $2.95 , $-   ," $6,758.45 ",24/2/2021,2, February ,2021,disagree,prodict not receive ontime
+1177,Oranges,Grocery, Grocery Industries Australia Pty Ltd , Queensland ,1030,1025, $5.00 ," $5,150.00 ", $5.95 , $-   ," $6,098.75 ",25/2/2021,5, May ,2021,Extremely Poor,customer service was very friendly 
+1178,Apples,Orchard, Complete Food Services , Tasmania ,639,634, $4.00 ," $2,556.00 ", $4.95 , $-   ," $3,138.30 ",26/2/2021,11, November ,2021,strongly agree,no one response my email
+1179,Oranges,Grocery, Japan Foods Trading , Western Australia  ,1326,1321, $3.50 ," $4,641.00 ", $4.45 , $-   ," $5,878.45 ",27/2/2021,3, March ,2021,strongly diagree,"there was an issue with my order, team resolve very quickly"
+1180,Apples,Orchard, Basfoods Direct , South Australia  ,1858,1853, $4.00 ," $7,432.00 ", $4.95 , $-   ," $9,172.35 ",28/2/2021,2, February ,2021,strongly diagree,I like your product 
+1181,Bananas,Grocery, Kahvecioglu Grand Foods , Northern Territory ,1210,1205, $2.50 ," $3,025.00 ", $3.45 , $-   ," $4,157.25 ",1/3/2021,3, March ,2021,disagree,bad quality 
+1182,Lettuce,Market, NSM Foods Direct to Public Outlet Store , NSW  ,2529,2524, $5.00 ," $12,645.00 ", $5.95 , $-   ," $15,017.80 ",2/3/2021,7, July ,2021,strongly agree,good quality 
+1183,Tomatoes,Market, Bera Foods Wholesalers , Queensland ,1445,1440, $11.00 ," $15,895.00 ", $11.95 , $-   ," $17,208.00 ",3/3/2021,9, September ,2021,strongly diagree,tasty 
+1184,Squash,Market, Grocery Industries Australia Pty Ltd , Tasmania ,330,325, $7.00 ," $2,310.00 ", $7.95 , $-   ," $2,583.75 ",4/3/2021,9, September ,2021,agree,I like your product 
+1185,Celery,Grocery, Complete Food Services , Western Australia  ,2671,2666, $6.00 ," $16,026.00 ", $6.95 , $-   ," $18,528.70 ",5/3/2021,9, September ,2021,disagree,I don't like this product 
+1186,Cucumber,Market, Japan Foods Trading , South Australia  ,766,761, $4.25 ," $3,255.50 ", $5.20 , $-   ," $3,957.20 ",6/3/2021,10, October ,2021,Extremely Poor,prodict not receive ontime
+1187,Mushrooms,Grocery, Basfoods Direct , Northern Territory ,494,489, $12.00 ," $5,928.00 ", $12.95 , $-   ," $6,332.55 ",7/3/2021,10, October ,2021,strongly agree,receive ontime 
+1188,Milk ,Home Delivery, Kahvecioglu Grand Foods , The Australian Capital Territory ,1397,1392, $20.00 ," $27,940.00 ", $20.95 , $-   ," $29,162.40 ",8/3/2021,10, October ,2021,strongly diagree,I like your product 
+1189,Cheese,Home Delivery, NSM Foods Direct to Public Outlet Store , NSW  ,2155,2150, $11.80 ," $25,420.28 ", $12.75 , $-   ," $27,403.81 ",9/3/2021,12, December ,2021,strongly diagree,I don't like this product 
+1190,Eggs,Home Delivery, Bera Foods Wholesalers , Queensland ,2214,2209, $12.49 ," $27,650.58 ", $13.44 , $-   ," $29,686.69 ",10/3/2021,3, March ,2021,strongly diagree,I like your product 
+1191,Cottage cheese,Home Delivery, Grocery Industries Australia Pty Ltd , Tasmania ,2301,2296, $13.18 ," $30,331.75 ", $14.13 , $-   ," $32,447.04 ",11/3/2021,4, April ,2021,disagree,I don't like this product 
+1192,Oranges,Grocery, Complete Food Services , Western Australia  ,1375.5,1370.5, $13.88 ," $19,085.06 ", $14.83 , $-   ," $20,317.66 ",12/3/2021,7, July ,2021,strongly agree,product not receive ontime
+1193,Apples,Orchard, Japan Foods Trading , South Australia  ,1830,1825, $14.57 ," $26,659.47 ", $15.52 , $-   ," $28,320.38 ",13/3/2021,8, August ,2021,strongly diagree,receive ontime 
+1194,Bananas,Grocery, Basfoods Direct , NSW  ,2498,2493, $15.26 ," $38,122.05 ", $16.21 , $-   ," $40,414.10 ",14/3/2021,9, September ,2021,agree,I like your product 
+1195,Lettuce,Market, Grocery Industries Australia Pty Ltd , Queensland ,663,658, $15.95 ," $10,577.53 ", $16.90 , $-   ," $11,122.86 ",15/3/2021,10, October ,2021,disagree,I don't like this product 
+1196,Tomatoes,Market, Complete Food Services , Tasmania ,1514,1509, $16.65 ," $25,203.65 ", $17.60 , $-   ," $26,553.96 ",16/3/2021,2, February ,2021,Extremely Poor,product was very fresh thanks
+1197,Squash,Market, Japan Foods Trading , Western Australia  ,4492.5,4487.5, $3.00 ," $13,477.50 ", $3.95 , $-   ," $17,725.63 ",17/3/2021,4, April ,2021,strongly agree,product was notvery fresh thanks
+1198,Celery,Grocery, Basfoods Direct , South Australia  ,727,722, $2.00 ," $1,454.00 ", $2.95 , $-   ," $2,129.90 ",18/3/2021,6, June ,2021,strongly diagree,product was very fresh thanks
+1199,Cucumber,Market, Kahvecioglu Grand Foods , NSW  ,787,782, $1.50 ," $1,180.50 ", $2.45 , $-   ," $1,915.90 ",19/3/2021,6, June ,2021,strongly diagree,product was not very fresh thanks
+1200,Mushrooms,Grocery, NSM Foods Direct to Public Outlet Store , Queensland ,1823,1818, $1.75 ," $3,190.25 ", $2.70 , $-   ," $4,908.60 ",20/3/2021,7, July ,2021,strongly diagree,prodict not receive ontime
+1201,Milk ,Home Delivery, Bera Foods Wholesalers , Tasmania ,747,742, $2.00 ," $1,494.00 ", $2.95 , $-   ," $2,188.90 ",21/3/2021,9, September ,2021,disagree,customer service was very friendly 
+1202,Cheese,Home Delivery, Royal Foods Australia Pty. Ltd. , Western Australia  ,766,761, $5.00 ," $3,830.00 ", $5.95 , $-   ," $4,527.95 ",22/3/2021,10, October ,2021,strongly agree,no one response my email
+1203,Eggs,Home Delivery, Real Food Distributors , South Australia  ,2905,2900, $4.00 ," $11,620.00 ", $4.95 , $-   ," $14,355.00 ",23/3/2021,11, November ,2021,strongly diagree,"there was an issue with my order, team resolve very quickly"
+1204,Cottage cheese,Home Delivery, Quality Foods , Northern Territory ,2155,2150, $3.50 ," $7,542.50 ", $4.45 , $-   ," $9,567.50 ",24/3/2021,12, December ,2021,agree,I like your product 
+1205,Sour cream,Home Delivery, First Ray , The Australian Capital Territory ,3864,3859, $4.00 ," $15,456.00 ", $4.95 , $-   ," $19,102.05 ",25/3/2021,4, April ,2021,disagree,bad quality 
+1206,Yogurt,Grocery, Mediterranean Wholesalers , Northern Territory ,362,357, $2.50 , $905.00 , $3.45 , $-   ," $1,231.65 ",26/3/2021,5, May ,2021,Extremely Poor,good quality 
+1207,Beef,Market, Bruno Fine Foods , The Australian Capital Territory ,923,918, $5.00 ," $4,615.00 ", $5.95 , $-   ," $5,462.10 ",27/3/2021,8, August ,2021,strongly agree,tasty 
+1208,Wild Salmon,Fish Market, Basfoods Direct - Somerton Store , NSW  ,663,658, $11.00 ," $7,293.00 ", $11.95 , $-   ," $7,863.10 ",28/3/2021,10, October ,2021,strongly diagree,I like your product 
+1209,Oranges,Grocery, Glendal Foods , Queensland ,2092,2087, $7.00 ," $14,644.00 ", $7.95 , $-   ," $16,591.65 ",29/3/2021,11, November ,2021,strongly diagree,I don't like this product 
+1210,Apples,Orchard, Delta Sales , Tasmania ,263,258, $6.00 ," $1,578.00 ", $6.95 , $-   ," $1,793.10 ",30/3/2021,3, March ,2021,strongly diagree,prodict not receive ontime
+1211,Bananas,Grocery, Marchetti Fine Foods , Western Australia  ,943.5,938.5, $4.25 ," $4,009.88 ", $5.20 , $-   ," $4,880.20 ",31/3/2021,4, April ,2021,disagree,receive ontime 
+1212,Lettuce,Market, Marchetti Fine Foods , South Australia  ,727,722, $12.00 ," $8,724.00 ", $12.95 , $-   ," $9,349.90 ",1/4/2021,6, June ,2021,strongly agree,I like your product 
+1213,Tomatoes,Market, Royal Foods Australia Pty. Ltd. , NSW  ,787,782, $20.00 ," $15,740.00 ", $20.95 , $-   ," $16,382.90 ",2/4/2021,6, June ,2021,strongly diagree,I don't like this product 
+1214,Squash,Market, Real Food Distributors , Queensland ,986,981, $11.80 ," $11,630.81 ", $12.75 , $-   ," $12,503.78 ",3/4/2021,9, September ,2021,agree,product not receive ontime
+1215,Oranges,Grocery, Quality Foods , Tasmania ,494,489, $12.49 ," $6,169.55 ", $13.44 , $-   ," $6,571.66 ",4/4/2021,10, October ,2021,disagree,receive ontime 
+1216,Oranges,Grocery, First Ray , Western Australia  ,1397,1392, $13.18 ," $18,415.23 ", $14.13 , $-   ," $19,671.72 ",5/4/2021,10, October ,2021,Extremely Poor,I like your product 
+1217,Apples,Orchard, Mediterranean Wholesalers , South Australia  ,1744,1739, $13.88 ," $24,198.00 ", $14.83 , $-   ," $25,780.68 ",6/4/2021,11, November ,2021,strongly agree,I don't like this product 
+1218,Bananas,Grocery, Bruno Fine Foods , Northern Territory ,1989,1984, $14.57 ," $28,975.78 ", $15.52 , $-   ," $30,787.74 ",7/4/2021,9, September ,2021,strongly diagree,product was very fresh thanks
+1219,Lettuce,Market, Basfoods Direct - Somerton Store , The Australian Capital Territory ,321,316, $15.26 ," $4,898.79 ", $16.21 , $-   ," $5,122.69 ",8/4/2021,11, November ,2021,strongly diagree,product was notvery fresh thanks
+1220,Tomatoes,Market, Glendal Foods , NSW  ,742.5,737.5, $15.95 ," $11,845.88 ", $16.90 , $-   ," $12,466.73 ",9/4/2021,4, April ,2021,strongly diagree,product was very fresh thanks
+1221,Squash,Market, Grocery Industries Australia Pty Ltd , Queensland ,1295,1290, $16.65 ," $21,557.94 ", $17.60 , $-   ," $22,700.21 ",10/4/2021,10, October ,2021,disagree,I like your product 
+1222,Celery,Grocery, Complete Food Services , Tasmania ,214,209, $3.00 , $642.00 , $3.95 , $-   , $825.55 ,11/4/2021,10, October ,2021,strongly agree,I don't like this product 
+1223,Cucumber,Market, Japan Foods Trading , Western Australia  ,2145,2140, $2.00 ," $4,290.00 ", $2.95 , $-   ," $6,313.00 ",12/4/2021,11, November ,2021,strongly diagree,product not receive ontime
+1224,Mushrooms,Grocery, Basfoods Direct , South Australia  ,2852,2847, $1.50 ," $4,278.00 ", $2.45 , $-   ," $6,975.15 ",13/4/2021,12, December ,2021,agree,receive ontime 
+1225,Milk ,Home Delivery, Kahvecioglu Grand Foods , Northern Territory ,1142,1137, $1.75 ," $1,998.50 ", $2.70 , $-   ," $3,069.90 ",14/4/2021,6, June ,2021,disagree,I like your product 
+1226,Cheese,Home Delivery, NSM Foods Direct to Public Outlet Store , NSW  ,1566,1561, $2.00 ," $3,132.00 ", $2.95 , $-   ," $4,604.95 ",15/4/2021,10, October ,2021,Extremely Poor,I don't like this product 
+1227,Eggs,Home Delivery, Bera Foods Wholesalers , Queensland ,690,685, $5.00 ," $3,450.00 ", $5.95 , $-   ," $4,075.75 ",16/4/2021,11, November ,2021,strongly agree,product was very fresh thanks
+1228,Cottage cheese,Home Delivery, Grocery Industries Australia Pty Ltd , Tasmania ,1660,1655, $4.00 ," $6,640.00 ", $4.95 , $-   ," $8,192.25 ",17/4/2021,11, November ,2021,strongly diagree,product was notvery fresh thanks
+1229,Sour cream,Home Delivery, Complete Food Services , Western Australia  ,2363,2358, $3.50 ," $8,270.50 ", $4.45 , $-   ," $10,493.10 ",18/4/2021,2, February ,2021,strongly diagree,product was very fresh thanks
+1230,Yogurt,Grocery, Japan Foods Trading , South Australia  ,918,913, $4.00 ," $3,672.00 ", $4.95 , $-   ," $4,519.35 ",19/4/2021,5, May ,2021,disagree,product was not very fresh thanks
+1231,Beef,Market, Basfoods Direct , Northern Territory ,1728,1723, $2.50 ," $4,320.00 ", $3.45 , $-   ," $5,944.35 ",20/4/2021,5, May ,2021,strongly agree,prodict not receive ontime
+1232,Wild Salmon,Fish Market, Kahvecioglu Grand Foods , The Australian Capital Territory ,1142,1137, $5.00 ," $5,710.00 ", $5.95 , $-   ," $6,765.15 ",21/4/2021,6, June ,2021,strongly diagree,customer service was very friendly 
+1233,Oranges,Grocery, NSM Foods Direct to Public Outlet Store , NSW  ,662,657, $11.00 ," $7,282.00 ", $11.95 , $-   ," $7,851.15 ",22/4/2021,6, June ,2021,agree,no one response my email
+1234,Apples,Orchard, Bera Foods Wholesalers , Queensland ,1295,1290, $7.00 ," $9,065.00 ", $7.95 , $-   ," $10,255.50 ",23/4/2021,10, October ,2021,disagree,"there was an issue with my order, team resolve very quickly"
+1235,Bananas,Grocery, Grocery Industries Australia Pty Ltd , Tasmania ,809,804, $6.00 ," $4,854.00 ", $6.95 , $-   ," $5,587.80 ",24/4/2021,10, October ,2021,Extremely Poor,I like your product 
+1236,Lettuce,Market, Complete Food Services , Western Australia  ,2145,2140, $4.25 ," $9,116.25 ", $5.20 , $-   ," $11,128.00 ",25/4/2021,10, October ,2021,strongly agree,bad quality 
+1237,Tomatoes,Market, Japan Foods Trading , South Australia  ,1785,1780, $12.00 ," $21,420.00 ", $12.95 , $-   ," $23,051.00 ",26/4/2021,11, November ,2021,strongly diagree,good quality 
+1238,Squash,Market, Basfoods Direct , NSW  ,1916,1911, $20.00 ," $38,320.00 ", $20.95 , $-   ," $40,035.45 ",27/4/2021,12, December ,2021,agree,tasty 
+1239,Oranges,Grocery, Royal Foods Australia Pty. Ltd. , Queensland ,2852,2847, $11.80 ," $33,642.07 ", $12.75 , $-   ," $36,287.74 ",28/4/2021,12, December ,2021,disagree,I like your product 
+1240,Apples,Orchard, Real Food Distributors , Tasmania ,2729,2724, $12.49 ," $34,082.40 ", $13.44 , $-   ," $36,607.76 ",29/4/2021,12, December ,2021,strongly agree,I don't like this product 
+1241,Bananas,Grocery, Quality Foods , Western Australia  ,1925,1920, $13.18 ," $25,375.32 ", $14.13 , $-   ," $27,133.41 ",30/4/2021,12, December ,2021,strongly diagree,I like your product 
+1242,Lettuce,Market, First Ray , South Australia  ,2013,2008, $13.88 ," $27,930.38 ", $14.83 , $-   ," $29,768.60 ",1/5/2021,12, December ,2021,agree,I don't like this product 
+1243,Tomatoes,Market, Mediterranean Wholesalers , NSW  ,1055,1050, $14.57 ," $15,369.26 ", $15.52 , $-   ," $16,293.92 ",2/5/2021,12, December ,2021,disagree,product not receive ontime
+1244,Squash,Market, Bruno Fine Foods , Queensland ,1084,1079, $15.26 ," $16,542.96 ", $16.21 , $-   ," $17,491.70 ",3/5/2021,12, December ,2021,Extremely Poor,receive ontime 
+1245,Celery,Grocery, Basfoods Direct - Somerton Store , Tasmania ,1566,1561, $15.95 ," $24,984.03 ", $16.90 , $-   ," $26,387.21 ",4/5/2021,10, October ,2021,strongly agree,I like your product 
+1246,Cucumber,Market, Glendal Foods , Western Australia  ,2966,2961, $16.65 ," $49,375.18 ", $17.60 , $-   ," $52,104.89 ",5/5/2021,10, October ,2021,strongly diagree,I don't like this product 
+1247,Mushrooms,Grocery, Grocery Industries Australia Pty Ltd , South Australia  ,2877,2872, $3.00 ," $8,631.00 ", $3.95 , $-   ," $11,344.40 ",6/5/2021,10, October ,2021,strongly diagree,product was very fresh thanks
+1248,Milk ,Home Delivery, Complete Food Services , Northern Territory ,809,804, $2.00 ," $1,618.00 ", $2.95 , $-   ," $2,371.80 ",7/5/2021,10, October ,2021,disagree,product was notvery fresh thanks
+1249,Cheese,Home Delivery, Japan Foods Trading , The Australian Capital Territory ,2145,2140, $1.50 ," $3,217.50 ", $2.45 , $-   ," $5,243.00 ",8/5/2021,10, October ,2021,strongly agree,product was very fresh thanks
+1250,Eggs,Home Delivery, Basfoods Direct , Northern Territory ,1055,1050, $1.75 ," $1,846.25 ", $2.70 , $-   ," $2,835.00 ",9/5/2021,12, December ,2021,strongly diagree,product was not very fresh thanks
+1251,Cottage cheese,Home Delivery, Kahvecioglu Grand Foods , The Australian Capital Territory ,544,539, $2.00 ," $1,088.00 ", $2.95 , $-   ," $1,590.05 ",10/5/2021,12, December ,2021,agree,prodict not receive ontime
+1252,Sour cream,Home Delivery, NSM Foods Direct to Public Outlet Store , NSW  ,1084,1079, $5.00 ," $5,420.00 ", $5.95 , $-   ," $6,420.05 ",11/5/2021,12, December ,2021,disagree,customer service was very friendly 
+1253,Yogurt,Grocery, Bera Foods Wholesalers , Queensland ,662,657, $4.00 ," $2,648.00 ", $4.95 , $-   ," $3,252.15 ",12/5/2021,6, June ,2021,Extremely Poor,no one response my email
+1254,Beef,Market, Grocery Industries Australia Pty Ltd , Tasmania ,214,209, $3.50 , $749.00 , $4.45 , $-   , $930.05 ,13/5/2021,10, October ,2021,strongly agree,"there was an issue with my order, team resolve very quickly"
+1255,Wild Salmon,Fish Market, Complete Food Services , Western Australia  ,2877,2872, $4.00 ," $11,508.00 ", $4.95 , $-   ," $14,216.40 ",14/5/2021,10, October ,2021,strongly diagree,I like your product 
+1256,Oranges,Grocery, Japan Foods Trading , South Australia  ,2729,2724, $2.50 ," $6,822.50 ", $3.45 , $-   ," $9,397.80 ",15/5/2021,12, December ,2021,strongly agree,bad quality 
+1257,Apples,Orchard, Basfoods Direct , Northern Territory ,266,261, $5.00 ," $1,330.00 ", $5.95 , $-   ," $1,552.95 ",16/5/2021,12, December ,2021,strongly diagree,good quality 
+1258,Bananas,Grocery, Kahvecioglu Grand Foods , The Australian Capital Territory ,1940,1935, $11.00 ," $21,340.00 ", $11.95 , $-   ," $23,123.25 ",17/5/2021,12, December ,2021,agree,tasty 
+1259,Oranges,Grocery, NSM Foods Direct to Public Outlet Store , NSW  ,259,254, $7.00 ," $1,813.00 ", $7.95 , $-   ," $2,019.30 ",18/5/2021,3, March ,2021,disagree,I like your product 
+1260,Apples,Orchard, Bera Foods Wholesalers , Queensland ,1101,1096, $6.00 ," $6,606.00 ", $6.95 , $-   ," $7,617.20 ",19/5/2021,3, March ,2021,strongly agree,I don't like this product 
+1261,Bananas,Grocery, Grocery Industries Australia Pty Ltd , Tasmania ,2276,2271, $4.25 ," $9,673.00 ", $5.20 , $-   ," $11,809.20 ",20/5/2021,5, May ,2021,strongly diagree,prodict not receive ontime
+1262,Lettuce,Market, Complete Food Services , Western Australia  ,2966,2961, $12.00 ," $35,592.00 ", $12.95 , $-   ," $38,344.95 ",21/5/2021,10, October ,2021,agree,receive ontime 
+1263,Tomatoes,Market, Japan Foods Trading , South Australia  ,1236,1231, $20.00 ," $24,720.00 ", $20.95 , $-   ," $25,789.45 ",22/5/2021,11, November ,2021,disagree,I like your product 
+1264,Squash,Market, Basfoods Direct , Northern Territory ,941,936, $11.80 ," $11,099.99 ", $12.75 , $-   ," $11,930.21 ",23/5/2021,11, November ,2021,Extremely Poor,I don't like this product 
+1265,Celery,Grocery, Grocery Industries Australia Pty Ltd , The Australian Capital Territory ,1916,1911, $12.49 ," $23,928.87 ", $13.44 , $-   ," $25,681.87 ",24/5/2021,12, December ,2021,strongly agree,product not receive ontime
+1266,Cucumber,Market, Complete Food Services , NSW  ,4243.5,4238.5, $13.18 ," $55,937.75 ", $14.13 , $-   ," $59,898.42 ",25/5/2021,4, April ,2021,strongly diagree,receive ontime 
+1267,Mushrooms,Grocery, Japan Foods Trading , Queensland ,2580,2575, $13.88 ," $35,797.50 ", $14.83 , $-   ," $38,174.38 ",26/5/2021,4, April ,2021,strongly diagree,I like your product 
+1268,Milk ,Home Delivery, Basfoods Direct , Tasmania ,689,684, $14.57 ," $10,037.36 ", $15.52 , $-   ," $10,614.32 ",27/5/2021,6, June ,2021,agree,I don't like this product 
+1269,Cheese,Home Delivery, Kahvecioglu Grand Foods , Western Australia  ,1947,1942, $15.26 ," $29,713.22 ", $16.21 , $-   ," $31,481.82 ",28/5/2021,9, September ,2021,strongly diagree,product was very fresh thanks
+1270,Eggs,Home Delivery, NSM Foods Direct to Public Outlet Store , South Australia  ,908,903, $15.95 ," $14,486.27 ", $16.90 , $-   ," $15,264.35 ",29/5/2021,12, December ,2021,strongly diagree,product was notvery fresh thanks
+1271,Cottage cheese,Home Delivery, Bera Foods Wholesalers , Northern Territory ,1958,1953, $16.65 ," $32,594.94 ", $17.60 , $-   ," $34,367.06 ",30/5/2021,2, February ,2021,agree,product was very fresh thanks
+1272,Sour cream,Home Delivery, Royal Foods Australia Pty. Ltd. , NSW  ,1901,1896, $3.00 ," $5,703.00 ", $3.95 , $-   ," $7,489.20 ",31/5/2021,6, June ,2021,disagree,I like your product 
+1273,Yogurt,Grocery, Real Food Distributors , Queensland ,544,539, $2.00 ," $1,088.00 ", $2.95 , $-   ," $1,590.05 ",1/6/2021,9, September ,2021,strongly agree,I don't like this product 
+1274,Beef,Market, Quality Foods , Tasmania ,1797,1792, $1.50 ," $2,695.50 ", $2.45 , $-   ," $4,390.40 ",2/6/2021,9, September ,2021,strongly diagree,product not receive ontime
+1275,Wild Salmon,Fish Market, First Ray , Western Australia  ,1287,1282, $1.75 ," $2,252.25 ", $2.70 , $-   ," $3,461.40 ",3/6/2021,12, December ,2021,agree,receive ontime 
+1276,Oranges,Grocery, Mediterranean Wholesalers , South Australia  ,1706,1701, $2.00 ," $3,412.00 ", $2.95 , $-   ," $5,017.95 ",4/6/2021,12, December ,2021,disagree,I like your product 
+1277,Apples,Orchard, Bruno Fine Foods , Northern Territory ,2434.5,2429.5, $5.00 ," $12,172.50 ", $5.95 , $-   ," $14,455.53 ",5/6/2021,1, January ,2021,Extremely Poor,I don't like this product 
+1278,Bananas,Grocery, Basfoods Direct - Somerton Store , The Australian Capital Territory ,1774,1769, $4.00 ," $7,096.00 ", $4.95 , $-   ," $8,756.55 ",6/6/2021,3, March ,2021,strongly agree,product was very fresh thanks
+1279,Lettuce,Market, Glendal Foods , NSW  ,1901,1896, $3.50 ," $6,653.50 ", $4.45 , $-   ," $8,437.20 ",7/6/2021,6, June ,2021,strongly diagree,product was notvery fresh thanks
+1280,Tomatoes,Market, Grocery Industries Australia Pty Ltd , Queensland ,689,684, $4.00 ," $2,756.00 ", $4.95 , $-   ," $3,385.80 ",8/6/2021,6, June ,2021,strongly diagree,product was very fresh thanks
+1281,Squash,Market, Complete Food Services , Tasmania ,1570,1565, $2.50 ," $3,925.00 ", $3.45 , $-   ," $5,399.25 ",9/6/2021,6, June ,2021,agree,product was not very fresh thanks
+1282,Oranges,Grocery, Japan Foods Trading , Western Australia  ,1369.5,1364.5, $5.00 ," $6,847.50 ", $5.95 , $-   ," $8,118.78 ",10/6/2021,7, July ,2021,disagree,prodict not receive ontime
+1283,Apples,Orchard, Basfoods Direct , South Australia  ,2009,2004, $11.00 ," $22,099.00 ", $11.95 , $-   ," $23,947.80 ",11/6/2021,10, October ,2021,strongly agree,customer service was very friendly 
+1284,Bananas,Grocery, Kahvecioglu Grand Foods , NSW  ,1945,1940, $7.00 ," $13,615.00 ", $7.95 , $-   ," $15,423.00 ",12/6/2021,10, October ,2021,strongly diagree,no one response my email
+1285,Lettuce,Market, NSM Foods Direct to Public Outlet Store , Queensland ,1287,1282, $6.00 ," $7,722.00 ", $6.95 , $-   ," $8,909.90 ",13/6/2021,12, December ,2021,agree,"there was an issue with my order, team resolve very quickly"
+1286,Tomatoes,Market, Bera Foods Wholesalers , Tasmania ,1706,1701, $4.25 ," $7,250.50 ", $5.20 , $-   ," $8,845.20 ",14/6/2021,12, December ,2021,disagree,I like your product 
+1287,Squash,Market, Grocery Industries Australia Pty Ltd , Western Australia  ,2009,2004, $12.00 ," $24,108.00 ", $12.95 , $-   ," $25,951.80 ",15/6/2021,10, October ,2021,Extremely Poor,I don't like this product 
+1288,Celery,Grocery, Complete Food Services , South Australia  ,2844,2839, $20.00 ," $56,880.00 ", $20.95 , $-   ," $59,477.05 ",16/6/2021,2, February ,2021,strongly agree,product not receive ontime
+1289,Cucumber,Market, Japan Foods Trading , NSW  ,1916,1911, $11.80 ," $22,601.05 ", $12.75 , $-   ," $24,357.52 ",17/6/2021,4, April ,2021,strongly diagree,receive ontime 
+1290,Mushrooms,Grocery, Basfoods Direct , Queensland ,1570,1565, $12.49 ," $19,607.68 ", $13.44 , $-   ," $21,031.99 ",18/6/2021,6, June ,2021,strongly diagree,I like your product 
+1291,Milk ,Home Delivery, Kahvecioglu Grand Foods , Tasmania ,1874,1869, $13.18 ," $24,703.04 ", $14.13 , $-   ," $26,412.68 ",19/6/2021,8, August ,2021,agree,I don't like this product 
+1292,Cheese,Home Delivery, NSM Foods Direct to Public Outlet Store , Western Australia  ,1642,1637, $13.88 ," $22,782.75 ", $14.83 , $-   ," $24,268.53 ",20/6/2021,8, August ,2021,disagree,product was very fresh thanks
+1293,Eggs,Home Delivery, Bera Foods Wholesalers , South Australia  ,1945,1940, $14.57 ," $28,334.79 ", $15.52 , $-   ," $30,104.95 ",21/6/2021,10, October ,2021,strongly agree,product was notvery fresh thanks
+1294,Cottage cheese,Home Delivery, Royal Foods Australia Pty. Ltd. , Northern Territory ,831,826, $15.26 ," $12,681.92 ", $16.21 , $-   ," $13,390.31 ",22/6/2021,5, May ,2021,strongly diagree,product was very fresh thanks
+1295,Sour cream,Home Delivery, Real Food Distributors , The Australian Capital Territory ,1760,1755, $15.95 ," $28,079.12 ", $16.90 , $-   ," $29,666.60 ",23/6/2021,9, September ,2021,agree,product was not very fresh thanks
+1296,Yogurt,Grocery, Quality Foods , Northern Territory ,3850.5,3845.5, $16.65 ," $64,099.50 ", $17.60 , $-   ," $67,669.49 ",24/6/2021,4, April ,2021,disagree,prodict not receive ontime
+1297,Beef,Market, First Ray , The Australian Capital Territory ,2479,2474, $3.00 ," $7,437.00 ", $3.95 , $-   ," $9,772.30 ",25/6/2021,1, January ,2021,Extremely Poor,customer service was very friendly 
+1298,Wild Salmon,Fish Market, Mediterranean Wholesalers , NSW  ,2031,2026, $2.00 ," $4,062.00 ", $2.95 , $-   ," $5,976.70 ",26/6/2021,10, October ,2021,strongly agree,no one response my email
+1299,Oranges,Grocery, Bruno Fine Foods , Queensland ,2031,2026, $1.50 ," $3,046.50 ", $2.45 , $-   ," $4,963.70 ",27/6/2021,10, October ,2021,strongly diagree,"there was an issue with my order, team resolve very quickly"
+1300,Apples,Orchard, Basfoods Direct - Somerton Store , Tasmania ,2261,2256, $1.75 ," $3,956.75 ", $2.70 , $-   ," $6,091.20 ",28/6/2021,12, December ,2021,strongly diagree,I like your product 
+1301,Bananas,Grocery, Glendal Foods , Western Australia  ,736,731, $2.00 ," $1,472.00 ", $2.95 , $-   ," $2,156.45 ",29/6/2021,9, September ,2021,agree,bad quality 
+1302,Lettuce,Market, Grocery Industries Australia Pty Ltd , South Australia  ,2851,2846, $5.00 ," $14,255.00 ", $5.95 , $-   ," $16,933.70 ",30/6/2021,10, October ,2021,disagree,good quality 
+1303,Tomatoes,Market, Complete Food Services , Northern Territory ,2021,2016, $4.00 ," $8,084.00 ", $4.95 , $-   ," $9,979.20 ",1/7/2021,10, October ,2021,strongly agree,tasty 
+1304,Squash,Market, Japan Foods Trading , The Australian Capital Territory ,274,269, $3.50 , $959.00 , $4.45 , $-   ," $1,197.05 ",2/7/2021,12, December ,2021,strongly diagree,I like your product 
+1305,Oranges,Grocery, Basfoods Direct , NSW  ,1967,1962, $4.00 ," $7,868.00 ", $4.95 , $-   ," $9,711.90 ",3/7/2021,3, March ,2021,agree,I don't like this product 
+1306,Oranges,Grocery, Kahvecioglu Grand Foods , Queensland ,1859,1854, $2.50 ," $4,647.50 ", $3.45 , $-   ," $6,396.30 ",4/7/2021,8, August ,2021,disagree,prodict not receive ontime
+1307,Apples,Orchard, NSM Foods Direct to Public Outlet Store , Tasmania ,2851,2846, $5.00 ," $14,255.00 ", $5.95 , $-   ," $16,933.70 ",5/7/2021,10, October ,2021,Extremely Poor,receive ontime 
+1308,Bananas,Grocery, Bera Foods Wholesalers , Western Australia  ,2021,2016, $11.00 ," $22,231.00 ", $11.95 , $-   ," $24,091.20 ",6/7/2021,10, October ,2021,strongly agree,I like your product 
+1309,Lettuce,Market, Grocery Industries Australia Pty Ltd , South Australia  ,1138,1133, $7.00 ," $7,966.00 ", $7.95 , $-   ," $9,007.35 ",7/7/2021,12, December ,2021,strongly diagree,I don't like this product 
+1310,Tomatoes,Market, Complete Food Services , Northern Territory ,4251,4246, $6.00 ," $25,506.00 ", $6.95 , $-   ," $29,509.70 ",8/7/2021,1, January ,2021,strongly diagree,product not receive ontime
+1311,Squash,Market, Japan Foods Trading , The Australian Capital Territory ,795,790, $4.25 ," $3,378.75 ", $5.20 , $-   ," $4,108.00 ",9/7/2021,3, March ,2021,agree,receive ontime 
+1312,Celery,Grocery, Basfoods Direct , NSW  ,1414.5,1409.5, $12.00 ," $16,974.00 ", $12.95 , $-   ," $18,253.03 ",10/7/2021,4, April ,2021,disagree,I like your product 
+1313,Cucumber,Market, Kahvecioglu Grand Foods , Queensland ,2918,2913, $20.00 ," $58,360.00 ", $20.95 , $-   ," $61,027.35 ",11/7/2021,5, May ,2021,strongly agree,I don't like this product 
+1314,Mushrooms,Grocery, NSM Foods Direct to Public Outlet Store , Tasmania ,3450,3445, $11.80 ," $40,696.05 ", $12.75 , $-   ," $43,909.82 ",12/7/2021,7, July ,2021,strongly diagree,product was very fresh thanks
+1315,Milk ,Home Delivery, Bera Foods Wholesalers , Western Australia  ,2988,2983, $12.49 ," $37,317.04 ", $13.44 , $-   ," $40,088.45 ",13/7/2021,7, July ,2021,agree,product was notvery fresh thanks
+1316,Cheese,Home Delivery, Grocery Industries Australia Pty Ltd , South Australia  ,218,213, $13.18 ," $2,873.67 ", $14.13 , $-   ," $3,010.11 ",14/7/2021,9, September ,2021,disagree,product was very fresh thanks
+1317,Eggs,Home Delivery, Complete Food Services , Northern Territory ,2074,2069, $13.88 ," $28,776.75 ", $14.83 , $-   ," $30,672.93 ",15/7/2021,9, September ,2021,Extremely Poor,I like your product 
+1318,Cottage cheese,Home Delivery, Japan Foods Trading , NSW  ,1056,1051, $14.57 ," $15,383.82 ", $15.52 , $-   ," $16,309.43 ",16/7/2021,9, September ,2021,strongly agree,I don't like this product 
+1319,Sour cream,Home Delivery, Basfoods Direct , Queensland ,671,666, $15.26 ," $10,240.15 ", $16.21 , $-   ," $10,796.55 ",17/7/2021,10, October ,2021,strongly diagree,product not receive ontime
+1320,Yogurt,Grocery, Grocery Industries Australia Pty Ltd , Tasmania ,1514,1509, $15.95 ," $24,154.42 ", $16.90 , $-   ," $25,508.20 ",18/7/2021,10, October ,2021,strongly diagree,receive ontime 
+1321,Beef,Market, Complete Food Services , Western Australia  ,274,269, $16.65 ," $4,561.29 ", $17.60 , $-   ," $4,733.61 ",19/7/2021,12, December ,2021,agree,I like your product 
+1322,Wild Salmon,Fish Market, Japan Foods Trading , South Australia  ,1138,1133, $3.00 ," $3,414.00 ", $3.95 , $-   ," $4,475.35 ",20/7/2021,12, December ,2021,disagree,I don't like this product 
+1323,Oranges,Grocery, Basfoods Direct , Northern Territory ,1465,1460, $2.00 ," $2,930.00 ", $2.95 , $-   ," $4,307.00 ",21/7/2021,3, March ,2021,strongly agree,product was very fresh thanks
+1324,Apples,Orchard, Kahvecioglu Grand Foods , The Australian Capital Territory ,2646,2641, $1.50 ," $3,969.00 ", $2.45 , $-   ," $6,470.45 ",22/7/2021,9, September ,2021,strongly diagree,product was notvery fresh thanks
+1325,Bananas,Grocery, NSM Foods Direct to Public Outlet Store , NSW  ,2177,2172, $1.75 ," $3,809.75 ", $2.70 , $-   ," $5,864.40 ",23/7/2021,10, October ,2021,agree,product was very fresh thanks
+1326,Oranges,Grocery, Bera Foods Wholesalers , Queensland ,866,861, $2.00 ," $1,732.00 ", $2.95 , $-   ," $2,539.95 ",24/7/2021,5, May ,2021,disagree,product was not very fresh thanks
+1327,Apples,Orchard, Royal Foods Australia Pty. Ltd. , Tasmania ,349,344, $5.00 ," $1,745.00 ", $5.95 , $-   ," $2,046.80 ",25/7/2021,9, September ,2021,Extremely Poor,prodict not receive ontime
+1328,Bananas,Grocery, Real Food Distributors , Western Australia  ,2177,2172, $4.00 ," $8,708.00 ", $4.95 , $-   ," $10,751.40 ",26/7/2021,10, October ,2021,strongly agree,customer service was very friendly 
+1329,Lettuce,Market, Quality Foods , South Australia  ,1514,1509, $3.50 ," $5,299.00 ", $4.45 , $-   ," $6,715.05 ",27/7/2021,10, October ,2021,strongly diagree,no one response my email
+1330,Tomatoes,Market, First Ray , NSW  ,1865,1860, $4.00 ," $7,460.00 ", $4.95 , $-   ," $9,207.00 ",28/7/2021,2, February ,2021,strongly diagree,"there was an issue with my order, team resolve very quickly"
+1331,Squash,Market, Mediterranean Wholesalers , Queensland ,1074,1069, $2.50 ," $2,685.00 ", $3.45 , $-   ," $3,688.05 ",29/7/2021,4, April ,2021,agree,I like your product 
+1332,Celery,Grocery, Bruno Fine Foods , Tasmania ,1907,1902, $5.00 ," $9,535.00 ", $5.95 , $-   ," $11,316.90 ",30/7/2021,9, September ,2021,disagree,bad quality 
+1333,Cucumber,Market, Basfoods Direct - Somerton Store , Western Australia  ,671,666, $11.00 ," $7,381.00 ", $11.95 , $-   ," $7,958.70 ",31/7/2021,10, October ,2021,strongly agree,good quality 
+1334,Mushrooms,Grocery, Glendal Foods , South Australia  ,1778,1773, $7.00 ," $12,446.00 ", $7.95 , $-   ," $14,095.35 ",1/8/2021,12, December ,2021,strongly diagree,tasty 
+1335,Milk ,Home Delivery, Grocery Industries Australia Pty Ltd , NSW  ,1159,1154, $6.00 ," $6,954.00 ", $6.95 , $-   ," $8,020.30 ",2/8/2021,10, October ,2021,agree,I like your product 
+1336,Cheese,Home Delivery, Complete Food Services , Queensland ,1372,1367, $4.25 ," $5,831.00 ", $5.20 , $-   ," $7,108.40 ",3/8/2021,1, January ,2021,disagree,I don't like this product 
+1337,Eggs,Home Delivery, Japan Foods Trading , Tasmania ,2349,2344, $12.00 ," $28,188.00 ", $12.95 , $-   ," $30,354.80 ",4/8/2021,9, September ,2021,Extremely Poor,prodict not receive ontime
+1338,Cottage cheese,Home Delivery, Basfoods Direct , Western Australia  ,2689,2684, $20.00 ," $53,780.00 ", $20.95 , $-   ," $56,229.80 ",5/8/2021,10, October ,2021,strongly agree,receive ontime 
+1339,Sour cream,Home Delivery, Kahvecioglu Grand Foods , South Australia  ,2431,2426, $11.80 ," $28,675.97 ", $12.75 , $-   ," $30,921.69 ",6/8/2021,12, December ,2021,strongly diagree,I like your product 
+1340,Yogurt,Grocery, NSM Foods Direct to Public Outlet Store , Northern Territory ,2431,2426, $12.49 ," $30,360.69 ", $13.44 , $-   ," $32,602.94 ",7/8/2021,12, December ,2021,strongly diagree,I don't like this product 
+1341,Beef,Market, Bera Foods Wholesalers , The Australian Capital Territory ,2689,2684, $13.18 ," $35,446.36 ", $14.13 , $-   ," $37,930.25 ",8/8/2021,10, October ,2021,agree,product not receive ontime
+1342,Wild Salmon,Fish Market, Grocery Industries Australia Pty Ltd , Northern Territory ,1683,1678, $13.88 ," $23,351.63 ", $14.83 , $-   ," $24,876.35 ",9/8/2021,7, July ,2021,disagree,receive ontime 
+1343,Oranges,Grocery, Complete Food Services , The Australian Capital Territory ,1123,1118, $14.57 ," $16,359.88 ", $15.52 , $-   ," $17,349.14 ",10/8/2021,8, August ,2021,strongly agree,I like your product 
+1344,Apples,Orchard, Japan Foods Trading , NSW  ,1159,1154, $15.26 ," $17,687.53 ", $16.21 , $-   ," $18,707.53 ",11/8/2021,10, October ,2021,strongly diagree,I don't like this product 
+1345,Bananas,Grocery, Basfoods Direct , Queensland ,1865,1860, $15.95 ," $29,754.29 ", $16.90 , $-   ," $31,441.52 ",12/8/2021,2, February ,2021,agree,I like your product 
+1346,Lettuce,Market, Kahvecioglu Grand Foods , Tasmania ,1116,1111, $16.65 ," $18,578.12 ", $17.60 , $-   ," $19,550.33 ",13/8/2021,2, February ,2021,disagree,I don't like this product 
+1347,Tomatoes,Market, NSM Foods Direct to Public Outlet Store , Western Australia  ,1563,1558, $3.00 ," $4,689.00 ", $3.95 , $-   ," $6,154.10 ",14/8/2021,5, May ,2021,Extremely Poor,product not receive ontime
+1348,Squash,Market, Bera Foods Wholesalers , South Australia  ,991,986, $2.00 ," $1,982.00 ", $2.95 , $-   ," $2,908.70 ",15/8/2021,6, June ,2021,strongly agree,receive ontime 
+1349,Oranges,Grocery, Grocery Industries Australia Pty Ltd , Northern Territory ,1016,1011, $1.50 ," $1,524.00 ", $2.45 , $-   ," $2,476.95 ",16/8/2021,11, November ,2021,strongly diagree,I like your product 
+1350,Apples,Orchard, Complete Food Services , The Australian Capital Territory ,2791,2786, $1.75 ," $4,884.25 ", $2.70 , $-   ," $7,522.20 ",17/8/2021,11, November ,2021,strongly diagree,I don't like this product 
+1351,Bananas,Grocery, Japan Foods Trading , NSW  ,570,565, $2.00 ," $1,140.00 ", $2.95 , $-   ," $1,666.75 ",18/8/2021,12, December ,2021,agree,product was very fresh thanks
+1352,Lettuce,Market, Basfoods Direct , Queensland ,2487,2482, $5.00 ," $12,435.00 ", $5.95 , $-   ," $14,767.90 ",19/8/2021,12, December ,2021,disagree,product was notvery fresh thanks
+1353,Tomatoes,Market, Grocery Industries Australia Pty Ltd , Tasmania ,1384.5,1379.5, $4.00 ," $5,538.00 ", $4.95 , $-   ," $6,828.53 ",20/8/2021,1, January ,2021,strongly agree,product was very fresh thanks
+1354,Squash,Market, Complete Food Services , Western Australia  ,3627,3622, $3.50 ," $12,694.50 ", $4.45 , $-   ," $16,117.90 ",21/8/2021,7, July ,2021,strongly diagree,product was not very fresh thanks
+1355,Celery,Grocery, Japan Foods Trading , South Australia  ,720,715, $4.00 ," $2,880.00 ", $4.95 , $-   ," $3,539.25 ",22/8/2021,9, September ,2021,agree,prodict not receive ontime
+1356,Cucumber,Market, Basfoods Direct , Northern Territory ,2342,2337, $2.50 ," $5,855.00 ", $3.45 , $-   ," $8,062.65 ",23/8/2021,11, November ,2021,disagree,customer service was very friendly 
+1357,Mushrooms,Grocery, Kahvecioglu Grand Foods , The Australian Capital Territory ,1100,1095, $5.00 ," $5,500.00 ", $5.95 , $-   ," $6,515.25 ",24/8/2021,12, December ,2021,Extremely Poor,no one response my email
+1358,Milk ,Home Delivery, NSM Foods Direct to Public Outlet Store , NSW  ,1303,1298, $11.00 ," $14,333.00 ", $11.95 , $-   ," $15,511.10 ",25/8/2021,2, February ,2021,strongly agree,"there was an issue with my order, team resolve very quickly"
+1359,Cheese,Home Delivery, Bera Foods Wholesalers , Queensland ,2992,2987, $7.00 ," $20,944.00 ", $7.95 , $-   ," $23,746.65 ",26/8/2021,3, March ,2021,strongly diagree,I like your product 
+1360,Eggs,Home Delivery, Royal Foods Australia Pty. Ltd. , Tasmania ,2385,2380, $6.00 ," $14,310.00 ", $6.95 , $-   ," $16,541.00 ",27/8/2021,3, March ,2021,strongly diagree,bad quality 
+1361,Cottage cheese,Home Delivery, Real Food Distributors , Western Australia  ,1607,1602, $4.25 ," $6,829.75 ", $5.20 , $-   ," $8,330.40 ",28/8/2021,4, April ,2021,agree,good quality 
+1362,Sour cream,Home Delivery, Quality Foods , South Australia  ,2327,2322, $12.00 ," $27,924.00 ", $12.95 , $-   ," $30,069.90 ",29/8/2021,5, May ,2021,disagree,tasty 
+1363,Yogurt,Grocery, First Ray , Northern Territory ,991,986, $20.00 ," $19,820.00 ", $20.95 , $-   ," $20,656.70 ",30/8/2021,6, June ,2021,strongly agree,I like your product 
+1364,Beef,Market, Mediterranean Wholesalers , NSW  ,602,597, $11.80 ," $7,101.17 ", $12.75 , $-   ," $7,609.34 ",31/8/2021,6, June ,2021,strongly diagree,I don't like this product 
+1365,Wild Salmon,Fish Market, Bruno Fine Foods , Queensland ,2620,2615, $12.49 ," $32,721.10 ", $13.44 , $-   ," $35,142.91 ",1/9/2021,9, September ,2021,agree,prodict not receive ontime
+1366,Oranges,Grocery, Basfoods Direct - Somerton Store , Tasmania ,1228,1223, $13.18 ," $16,187.48 ", $14.13 , $-   ," $17,283.42 ",2/9/2021,10, October ,2021,disagree,receive ontime 
+1367,Apples,Orchard, Glendal Foods , Western Australia  ,1389,1384, $13.88 ," $19,272.38 ", $14.83 , $-   ," $20,517.80 ",3/9/2021,10, October ,2021,Extremely Poor,I like your product 
+1368,Bananas,Grocery, Grocery Industries Australia Pty Ltd , South Australia  ,861,856, $14.57 ," $12,543.06 ", $15.52 , $-   ," $13,283.42 ",4/9/2021,10, October ,2021,strongly agree,I don't like this product 
+1369,Lettuce,Market, Complete Food Services , Northern Territory ,704,699, $15.26 ," $10,743.76 ", $16.21 , $-   ," $11,331.51 ",5/9/2021,10, October ,2021,strongly diagree,product not receive ontime
+1370,Tomatoes,Market, Japan Foods Trading , The Australian Capital Territory ,1802,1797, $15.95 ," $28,749.19 ", $16.90 , $-   ," $30,376.57 ",6/9/2021,12, December ,2021,strongly diagree,receive ontime 
+1371,Squash,Market, Basfoods Direct , NSW  ,2663,2658, $16.65 ," $44,331.12 ", $17.60 , $-   ," $46,772.98 ",7/9/2021,12, December ,2021,agree,I like your product 
+1372,Oranges,Grocery, Kahvecioglu Grand Foods , Queensland ,2136,2131, $3.00 ," $6,408.00 ", $3.95 , $-   ," $8,417.45 ",8/9/2021,12, December ,2021,disagree,I don't like this product 
+1373,Apples,Orchard, NSM Foods Direct to Public Outlet Store , Tasmania ,2116,2111, $2.00 ," $4,232.00 ", $2.95 , $-   ," $6,227.45 ",9/9/2021,12, December ,2021,strongly agree,product was very fresh thanks
+1374,Bananas,Grocery, Bera Foods Wholesalers , Western Australia  ,555,550, $1.50 , $832.50 , $2.45 , $-   ," $1,347.50 ",10/9/2021,1, January ,2021,strongly diagree,product was notvery fresh thanks
+1375,Lettuce,Market, Grocery Industries Australia Pty Ltd , South Australia  ,2861,2856, $1.75 ," $5,006.75 ", $2.70 , $-   ," $7,711.20 ",11/9/2021,1, January ,2021,agree,product was very fresh thanks
+1376,Tomatoes,Market, Complete Food Services , NSW  ,807,802, $2.00 ," $1,614.00 ", $2.95 , $-   ," $2,365.90 ",12/9/2021,2, February ,2021,disagree,I like your product 
+1377,Squash,Market, Japan Foods Trading , Queensland ,602,597, $5.00 ," $3,010.00 ", $5.95 , $-   ," $3,552.15 ",13/9/2021,6, June ,2021,Extremely Poor,I don't like this product 
+1378,Celery,Grocery, Basfoods Direct , Tasmania ,2832,2827, $4.00 ," $11,328.00 ", $4.95 , $-   ," $13,993.65 ",14/9/2021,8, August ,2021,strongly agree,product not receive ontime
+1379,Cucumber,Market, Kahvecioglu Grand Foods , Western Australia  ,1579,1574, $3.50 ," $5,526.50 ", $4.45 , $-   ," $7,004.30 ",15/9/2021,8, August ,2021,strongly diagree,receive ontime 
+1380,Mushrooms,Grocery, NSM Foods Direct to Public Outlet Store , South Australia  ,861,856, $4.00 ," $3,444.00 ", $4.95 , $-   ," $4,237.20 ",16/9/2021,10, October ,2021,strongly diagree,I like your product 
+1381,Milk ,Home Delivery, Bera Foods Wholesalers , NSW  ,704,699, $2.50 ," $1,760.00 ", $3.45 , $-   ," $2,411.55 ",17/9/2021,10, October ,2021,agree,I don't like this product 
+1382,Cheese,Home Delivery, Grocery Industries Australia Pty Ltd , Queensland ,1033,1028, $5.00 ," $5,165.00 ", $5.95 , $-   ," $6,116.60 ",18/9/2021,12, December ,2021,disagree,product was very fresh thanks
+1383,Eggs,Home Delivery, Complete Food Services , Tasmania ,1250,1245, $11.00 ," $13,750.00 ", $11.95 , $-   ," $14,877.75 ",19/9/2021,12, December ,2021,strongly agree,product was notvery fresh thanks
+1384,Cottage cheese,Home Delivery, Japan Foods Trading , Western Australia  ,1389,1384, $7.00 ," $9,723.00 ", $7.95 , $-   ," $11,002.80 ",20/9/2021,10, October ,2021,strongly diagree,product was very fresh thanks
+1385,Sour cream,Home Delivery, Basfoods Direct , South Australia  ,1265,1260, $6.00 ," $7,590.00 ", $6.95 , $-   ," $8,757.00 ",21/9/2021,11, November ,2021,agree,product was not very fresh thanks
+1386,Yogurt,Grocery, Grocery Industries Australia Pty Ltd , Northern Territory ,2297,2292, $4.25 ," $9,762.25 ", $5.20 , $-   ," $11,918.40 ",22/9/2021,11, November ,2021,disagree,prodict not receive ontime
+1387,Beef,Market, Complete Food Services , The Australian Capital Territory ,2663,2658, $12.00 ," $31,956.00 ", $12.95 , $-   ," $34,421.10 ",23/9/2021,12, December ,2021,Extremely Poor,customer service was very friendly 
+1388,Wild Salmon,Fish Market, Japan Foods Trading , Northern Territory ,570,565, $20.00 ," $11,400.00 ", $20.95 , $-   ," $11,836.75 ",24/9/2021,12, December ,2021,strongly agree,no one response my email
+1389,Oranges,Grocery, Basfoods Direct , The Australian Capital Territory ,2487,2482, $11.80 ," $29,336.54 ", $12.75 , $-   ," $31,635.46 ",25/9/2021,12, December ,2021,strongly diagree,"there was an issue with my order, team resolve very quickly"
+1390,Apples,Orchard, Kahvecioglu Grand Foods , NSW  ,1350,1345, $12.49 ," $16,860.11 ", $13.44 , $-   ," $18,075.42 ",26/9/2021,2, February ,2021,strongly diagree,I like your product 
+1391,Bananas,Grocery, NSM Foods Direct to Public Outlet Store , Queensland ,552,547, $13.18 ," $7,276.46 ", $14.13 , $-   ," $7,730.20 ",27/9/2021,8, August ,2021,agree,bad quality 
+1392,Lettuce,Market, Bera Foods Wholesalers , Tasmania ,1228,1223, $13.88 ," $17,038.50 ", $14.83 , $-   ," $18,130.98 ",28/9/2021,10, October ,2021,disagree,good quality 
+1393,Tomatoes,Market, Royal Foods Australia Pty. Ltd. , Western Australia  ,1250,1245, $14.57 ," $18,210.02 ", $15.52 , $-   ," $19,319.93 ",29/9/2021,12, December ,2021,strongly agree,tasty 
+1394,Oranges,Grocery, Real Food Distributors , South Australia  ,3801,3796, $15.26 ," $58,007.17 ", $16.21 , $-   ," $61,537.07 ",30/9/2021,4, April ,2021,strongly diagree,I like your product 
+1395,Apples,Orchard, Quality Foods , NSW  ,1117.5,1112.5, $15.95 ," $17,828.64 ", $16.90 , $-   ," $18,805.75 ",1/10/2021,1, January ,2021,agree,I don't like this product 
+1396,Bananas,Grocery, First Ray , Queensland ,2844,2839, $16.65 ," $47,344.24 ", $17.60 , $-   ," $49,958.05 ",2/10/2021,6, June ,2021,disagree,prodict not receive ontime
+1397,Lettuce,Market, Mediterranean Wholesalers , Tasmania ,562,557, $3.00 ," $1,686.00 ", $3.95 , $-   ," $2,200.15 ",3/10/2021,9, September ,2021,Extremely Poor,receive ontime 
+1398,Tomatoes,Market, Bruno Fine Foods , Western Australia  ,2299,2294, $2.00 ," $4,598.00 ", $2.95 , $-   ," $6,767.30 ",4/10/2021,10, October ,2021,strongly agree,I like your product 
+1399,Squash,Market, Basfoods Direct - Somerton Store , South Australia  ,2030,2025, $1.50 ," $3,045.00 ", $2.45 , $-   ," $4,961.25 ",5/10/2021,11, November ,2021,strongly diagree,I don't like this product 
+1400,Celery,Grocery, Glendal Foods , Northern Territory ,263,258, $1.75 , $460.25 , $2.70 , $-   , $696.60 ,6/10/2021,11, November ,2021,strongly diagree,product not receive ontime
+1401,Cucumber,Market, Grocery Industries Australia Pty Ltd , The Australian Capital Territory ,887,882, $2.00 ," $1,774.00 ", $2.95 , $-   ," $2,601.90 ",7/10/2021,12, December ,2021,agree,receive ontime 
+1402,Mushrooms,Grocery, Complete Food Services , NSW  ,980,975, $5.00 ," $4,900.00 ", $5.95 , $-   ," $5,801.25 ",8/10/2021,4, April ,2021,disagree,I like your product 
+1403,Milk ,Home Delivery, Japan Foods Trading , Queensland ,1460,1455, $4.00 ," $5,840.00 ", $4.95 , $-   ," $7,202.25 ",9/10/2021,5, May ,2021,strongly agree,I don't like this product 
+1404,Cheese,Home Delivery, Basfoods Direct , Tasmania ,1403,1398, $3.50 ," $4,910.50 ", $4.45 , $-   ," $6,221.10 ",10/10/2021,10, October ,2021,strongly diagree,product was very fresh thanks
+1405,Eggs,Home Delivery, Kahvecioglu Grand Foods , Western Australia  ,2723,2718, $4.00 ," $10,892.00 ", $4.95 , $-   ," $13,454.10 ",11/10/2021,11, November ,2021,agree,product was notvery fresh thanks
+1406,Cottage cheese,Home Delivery, NSM Foods Direct to Public Outlet Store , South Australia  ,1496,1491, $2.50 ," $3,740.00 ", $3.45 , $-   ," $5,143.95 ",12/10/2021,6, June ,2021,disagree,product was very fresh thanks
+1407,Sour cream,Home Delivery, Bera Foods Wholesalers , Northern Territory ,2299,2294, $5.00 ," $11,495.00 ", $5.95 , $-   ," $13,649.30 ",13/10/2021,10, October ,2021,Extremely Poor,I like your product 
+1408,Yogurt,Grocery, Grocery Industries Australia Pty Ltd , NSW  ,727,722, $11.00 ," $7,997.00 ", $11.95 , $-   ," $8,627.90 ",14/10/2021,10, October ,2021,strongly agree,I don't like this product 
+1409,Beef,Market, Complete Food Services , Queensland ,952,947, $7.00 ," $6,664.00 ", $7.95 , $-   ," $7,528.65 ",15/10/2021,2, February ,2021,strongly diagree,product not receive ontime
+1410,Wild Salmon,Fish Market, Japan Foods Trading , Tasmania ,2755,2750, $6.00 ," $16,530.00 ", $6.95 , $-   ," $19,112.50 ",16/10/2021,2, February ,2021,strongly diagree,receive ontime 
+1411,Oranges,Grocery, Basfoods Direct , Western Australia  ,1530,1525, $4.25 ," $6,502.50 ", $5.20 , $-   ," $7,930.00 ",17/10/2021,5, May ,2021,agree,I like your product 
+1412,Apples,Orchard, Kahvecioglu Grand Foods , South Australia  ,1496,1491, $12.00 ," $17,952.00 ", $12.95 , $-   ," $19,308.45 ",18/10/2021,6, June ,2021,disagree,I don't like this product 
+1413,Bananas,Grocery, NSM Foods Direct to Public Outlet Store , Northern Territory ,1498,1493, $20.00 ," $29,960.00 ", $20.95 , $-   ," $31,278.35 ",19/10/2021,6, June ,2021,strongly agree,product was very fresh thanks
+1414,Lettuce,Market, Bera Foods Wholesalers , The Australian Capital Territory ,1221,1216, $3.00 ," $3,663.00 ", $3.95 , $-   ," $4,803.20 ",20/10/2021,10, October ,2021,strongly diagree,product was notvery fresh thanks
+1415,Tomatoes,Market, Grocery Industries Australia Pty Ltd , NSW  ,2076,2071, $2.00 ," $4,152.00 ", $2.95 , $-   ," $6,109.45 ",21/10/2021,10, October ,2021,agree,product was very fresh thanks
+1416,Squash,Market, Complete Food Services , Queensland ,2844,2839, $1.50 ," $4,266.00 ", $2.45 , $-   ," $6,955.55 ",22/10/2021,6, June ,2021,disagree,product was not very fresh thanks
+1417,Oranges,Grocery, Japan Foods Trading , Tasmania ,1498,1493, $1.75 ," $2,621.50 ", $2.70 , $-   ," $4,031.10 ",23/10/2021,6, June ,2021,Extremely Poor,prodict not receive ontime
+1418,Apples,Orchard, Basfoods Direct , Western Australia  ,1221,1216, $2.00 ," $2,442.00 ", $2.95 , $-   ," $3,587.20 ",24/10/2021,10, October ,2021,strongly agree,customer service was very friendly 
+1419,Bananas,Grocery, Grocery Industries Australia Pty Ltd , South Australia  ,1123,1118, $5.00 ," $5,615.00 ", $5.95 , $-   ," $6,652.10 ",25/10/2021,11, November ,2021,strongly diagree,no one response my email
+1420,Lettuce,Market, Royal Foods Australia Pty. Ltd. , NSW  ,2436,2431, $4.00 ," $9,744.00 ", $4.95 , $-   ," $12,033.45 ",26/10/2021,12, December ,2021,strongly diagree,"there was an issue with my order, team resolve very quickly"
+1421,Tomatoes,Market, Real Food Distributors , Queensland ,1987.5,1982.5, $3.50 ," $6,956.25 ", $4.45 , $-   ," $8,822.13 ",27/10/2021,1, January ,2021,agree,I like your product 
+1422,Squash,Market, Quality Foods , Tasmania ,1679,1674, $4.00 ," $6,716.00 ", $4.95 , $-   ," $8,286.30 ",28/10/2021,9, September ,2021,disagree,bad quality 
+1423,Celery,Grocery, First Ray , Western Australia  ,727,722, $2.50 ," $1,817.50 ", $3.45 , $-   ," $2,490.90 ",29/10/2021,10, October ,2021,strongly agree,good quality 
+1424,Cucumber,Market, Mediterranean Wholesalers , South Australia  ,1403,1398, $5.00 ," $7,015.00 ", $5.95 , $-   ," $8,318.10 ",30/10/2021,10, October ,2021,strongly diagree,tasty 
+1425,Mushrooms,Grocery, Bruno Fine Foods , NSW  ,2076,2071, $11.00 ," $22,836.00 ", $11.95 , $-   ," $24,748.45 ",31/10/2021,10, October ,2021,agree,I like your product 
+1426,Milk ,Home Delivery, Basfoods Direct - Somerton Store , Queensland ,1757,1752, $7.00 ," $12,299.00 ", $7.95 , $-   ," $13,928.40 ",1/11/2021,10, October ,2021,disagree,I don't like this product 
+1427,Cheese,Home Delivery, Glendal Foods , Tasmania ,2198,2193, $6.00 ," $13,188.00 ", $6.95 , $-   ," $15,241.35 ",2/11/2021,8, August ,2021,Extremely Poor,prodict not receive ontime
+1428,Eggs,Home Delivery, Grocery Industries Australia Pty Ltd , Western Australia  ,1743,1738, $4.25 ," $7,407.75 ", $5.20 , $-   ," $9,037.60 ",3/11/2021,8, August ,2021,strongly agree,receive ontime 
+1429,Cottage cheese,Home Delivery, Complete Food Services , South Australia  ,1153,1148, $12.00 ," $13,836.00 ", $12.95 , $-   ," $14,866.60 ",4/11/2021,10, October ,2021,strongly diagree,I like your product 
+1430,Sour cream,Home Delivery, Japan Foods Trading , Northern Territory ,1757,1752, $20.00 ," $35,140.00 ", $20.95 , $-   ," $36,704.40 ",5/11/2021,10, October ,2021,strongly diagree,I don't like this product 
+1431,Yogurt,Grocery, Basfoods Direct , The Australian Capital Territory ,1001,996, $20.00 ," $20,020.00 ", $20.95 , $-   ," $20,866.20 ",6/11/2021,8, August ,2021,agree,product not receive ontime
+1432,Beef,Market, Kahvecioglu Grand Foods , Northern Territory ,1333,1328, $3.00 ," $3,999.00 ", $3.95 , $-   ," $5,245.60 ",7/11/2021,11, November ,2021,disagree,receive ontime 
+1433,Wild Salmon,Fish Market, NSM Foods Direct to Public Outlet Store , The Australian Capital Territory ,1153,1148, $2.00 ," $2,306.00 ", $2.95 , $-   ," $3,386.60 ",8/11/2021,10, October ,2021,strongly agree,I like your product 
+1434,Oranges,Grocery, Bera Foods Wholesalers , NSW  ,727,722, $1.50 ," $1,090.50 ", $2.45 , $-   ," $1,768.90 ",9/11/2021,2, February ,2021,strongly diagree,I don't like this product 
+1435,Apples,Orchard, Grocery Industries Australia Pty Ltd , Queensland ,1884,1879, $1.75 ," $3,297.00 ", $2.70 , $-   ," $5,073.30 ",10/11/2021,8, August ,2021,agree,product was very fresh thanks
+1436,Bananas,Grocery, Complete Food Services , Tasmania ,1834,1829, $2.00 ," $3,668.00 ", $2.95 , $-   ," $5,395.55 ",11/11/2021,9, September ,2021,disagree,product was notvery fresh thanks
+1437,Lettuce,Market, Japan Foods Trading , Western Australia  ,2340,2335, $5.00 ," $11,700.00 ", $5.95 , $-   ," $13,893.25 ",12/11/2021,1, January ,2021,Extremely Poor,I like your product 
+1438,Tomatoes,Market, Basfoods Direct , South Australia  ,2342,2337, $4.00 ," $9,368.00 ", $4.95 , $-   ," $11,568.15 ",13/11/2021,11, November ,2021,strongly agree,I don't like this product 
+1439,Squash,Market, Kahvecioglu Grand Foods , Northern Territory ,1031,1026, $3.50 ," $3,608.50 ", $4.45 , $-   ," $4,565.70 ",14/11/2021,9, September ,2021,strongly diagree,product not receive ontime
+1440,Oranges,Grocery, NSM Foods Direct to Public Outlet Store , NSW  ,1262,1257, $4.00 ," $5,048.00 ", $4.95 , $-   ," $6,222.15 ",15/11/2021,5, May ,2021,strongly diagree,receive ontime 
+1441,Apples,Orchard, Bera Foods Wholesalers , Queensland ,1135,1130, $2.50 ," $2,837.50 ", $3.45 , $-   ," $3,898.50 ",16/11/2021,6, June ,2021,agree,I like your product 
+1442,Oranges,Grocery, Grocery Industries Australia Pty Ltd , Tasmania ,547,542, $5.00 ," $2,735.00 ", $5.95 , $-   ," $3,224.90 ",17/11/2021,11, November ,2021,disagree,I don't like this product 
+1443,Apples,Orchard, Complete Food Services , Western Australia  ,1582,1577, $11.00 ," $17,402.00 ", $11.95 , $-   ," $18,845.15 ",18/11/2021,12, December ,2021,strongly agree,product was very fresh thanks
+1444,Bananas,Grocery, Japan Foods Trading , South Australia  ,1738.5,1733.5, $7.00 ," $12,169.50 ", $7.95 , $-   ," $13,781.33 ",19/11/2021,4, April ,2021,strongly diagree,product was notvery fresh thanks
+1445,Lettuce,Market, Basfoods Direct , Northern Territory ,2215,2210, $6.00 ," $13,290.00 ", $6.95 , $-   ," $15,359.50 ",20/11/2021,9, September ,2021,agree,product was very fresh thanks
+1446,Tomatoes,Market, Grocery Industries Australia Pty Ltd , The Australian Capital Territory ,1582,1577, $4.25 ," $6,723.50 ", $5.20 , $-   ," $8,200.40 ",21/11/2021,12, December ,2021,disagree,product was not very fresh thanks
+1447,Squash,Market, Royal Foods Australia Pty. Ltd. , NSW  ,1135,1130, $12.00 ," $13,620.00 ", $12.95 , $-   ," $14,633.50 ",22/11/2021,6, June ,2021,Extremely Poor,prodict not receive ontime
+1448,Celery,Grocery, Real Food Distributors , Queensland ,1761,1756, $20.00 ," $35,220.00 ", $20.95 , $-   ," $36,788.20 ",23/11/2021,3, March ,2021,strongly agree,customer service was very friendly 
+1449,Cucumber,Market, Quality Foods , Tasmania ,448,443, $3.00 ," $1,344.00 ", $3.95 , $-   ," $1,749.85 ",24/11/2021,6, June ,2021,strongly diagree,no one response my email
+1450,Mushrooms,Grocery, First Ray , Western Australia  ,2181,2176, $2.00 ," $4,362.00 ", $2.95 , $-   ," $6,419.20 ",25/11/2021,10, October ,2021,strongly diagree,"there was an issue with my order, team resolve very quickly"
+1451,Milk ,Home Delivery, Mediterranean Wholesalers , South Australia  ,1976,1971, $1.50 ," $2,964.00 ", $2.45 , $-   ," $4,828.95 ",26/11/2021,10, October ,2021,agree,I like your product 
+1452,Cheese,Home Delivery, Bruno Fine Foods , Northern Territory ,2181,2176, $1.75 ," $3,816.75 ", $2.70 , $-   ," $5,875.20 ",27/11/2021,10, October ,2021,disagree,bad quality 
+1453,Eggs,Home Delivery, Basfoods Direct - Somerton Store , NSW  ,2500,2495, $2.00 ," $5,000.00 ", $2.95 , $-   ," $7,360.25 ",28/11/2021,11, November ,2021,strongly agree,good quality 
+1454,Cottage cheese,Home Delivery, Glendal Foods , Queensland ,1702,1697, $5.00 ," $8,510.00 ", $5.95 , $-   ," $10,097.15 ",29/11/2021,5, May ,2021,strongly diagree,tasty 
+1455,Sour cream,Home Delivery, Grocery Industries Australia Pty Ltd , Tasmania ,448,443, $4.00 ," $1,792.00 ", $4.95 , $-   ," $2,192.85 ",30/11/2021,6, June ,2021,agree,I like your product 
+1456,Yogurt,Grocery, Complete Food Services , Western Australia  ,3513,3508, $3.50 ," $12,295.50 ", $4.45 , $-   ," $15,610.60 ",1/12/2021,7, July ,2021,disagree,I don't like this product 
+1457,Beef,Market, Japan Foods Trading , South Australia  ,2101,2096, $4.00 ," $8,404.00 ", $4.95 , $-   ," $10,375.20 ",2/12/2021,8, August ,2021,Extremely Poor,prodict not receive ontime
+1458,Wild Salmon,Fish Market, Basfoods Direct , Northern Territory ,2931,2926, $2.50 ," $7,327.50 ", $3.45 , $-   ," $10,094.70 ",3/12/2021,9, September ,2021,strongly agree,receive ontime 
+1459,Oranges,Grocery, Kahvecioglu Grand Foods , The Australian Capital Territory ,1535,1530, $5.00 ," $7,675.00 ", $5.95 , $-   ," $9,103.50 ",4/12/2021,9, September ,2021,strongly diagree,I like your product 
+1460,Apples,Orchard, NSM Foods Direct to Public Outlet Store , NSW  ,1123,1118, $11.00 ," $12,353.00 ", $11.95 , $-   ," $13,360.10 ",5/12/2021,9, September ,2021,strongly diagree,I don't like this product 
+1461,Bananas,Grocery, Bera Foods Wholesalers , Queensland ,1404,1399, $7.00 ," $9,828.00 ", $7.95 , $-   ," $11,122.05 ",6/12/2021,11, November ,2021,agree,product not receive ontime
+1462,Lettuce,Market, Grocery Industries Australia Pty Ltd , Tasmania ,2763,2758, $6.00 ," $16,578.00 ", $6.95 , $-   ," $19,168.10 ",7/12/2021,11, November ,2021,disagree,receive ontime 
+1463,Tomatoes,Market, Complete Food Services , Western Australia  ,2125,2120, $4.25 ," $9,031.25 ", $5.20 , $-   ," $11,024.00 ",8/12/2021,12, December ,2021,strongly agree,I like your product 
+1464,Squash,Market, Japan Foods Trading , South Australia  ,1659,1654, $12.00 ," $19,908.00 ", $12.95 , $-   ," $21,419.30 ",9/12/2021,7, July ,2021,strongly diagree,I don't like this product 
+1465,Oranges,Grocery, Basfoods Direct , NSW  ,609,604, $20.00 ," $12,180.00 ", $20.95 , $-   ," $12,653.80 ",10/12/2021,8, August ,2021,agree,product was very fresh thanks
+1466,Apples,Orchard, Kahvecioglu Grand Foods , Queensland ,2087,2082, $3.00 ," $6,261.00 ", $3.95 , $-   ," $8,223.90 ",11/12/2021,9, September ,2021,disagree,product was notvery fresh thanks
+1467,Bananas,Grocery, NSM Foods Direct to Public Outlet Store , Tasmania ,1976,1971, $2.00 ," $3,952.00 ", $2.95 , $-   ," $5,814.45 ",12/12/2021,10, October ,2021,Extremely Poor,product was very fresh thanks
+1468,Lettuce,Market, Bera Foods Wholesalers , Western Australia  ,1421,1416, $1.50 ," $2,131.50 ", $2.45 , $-   ," $3,469.20 ",13/12/2021,12, December ,2021,strongly agree,I like your product 
+1469,Tomatoes,Market, Grocery Industries Australia Pty Ltd , South Australia  ,1372,1367, $1.75 ," $2,401.00 ", $2.70 , $-   ," $3,690.90 ",14/12/2021,12, December ,2021,strongly diagree,I don't like this product 
+1470,Squash,Market, Complete Food Services , NSW  ,588,583, $2.00 ," $1,176.00 ", $2.95 , $-   ," $1,719.85 ",15/12/2021,12, December ,2021,strongly diagree,product not receive ontime
+1471,Celery,Grocery, Japan Foods Trading , Queensland ,3244.5,3239.5, $5.00 ," $16,222.50 ", $5.95 , $-   ," $19,275.03 ",16/12/2021,1, January ,2021,agree,receive ontime 
+1472,Cucumber,Market, Basfoods Direct , Tasmania ,959,954, $4.00 ," $3,836.00 ", $4.95 , $-   ," $4,722.30 ",17/12/2021,2, February ,2021,disagree,I like your product 
+1473,Mushrooms,Grocery, Grocery Industries Australia Pty Ltd , Western Australia  ,2747,2742, $3.50 ," $9,614.50 ", $4.45 , $-   ," $12,201.90 ",18/12/2021,2, February ,2021,strongly agree,I don't like this product 
+1474,Milk ,Home Delivery, Complete Food Services , South Australia  ,1645,1640, $4.00 ," $6,580.00 ", $4.95 , $-   ," $8,118.00 ",19/12/2021,5, May ,2021,strongly diagree,product was very fresh thanks
+1475,Cheese,Home Delivery, Japan Foods Trading , Northern Territory ,2876,2871, $2.50 ," $7,190.00 ", $3.45 , $-   ," $9,904.95 ",20/12/2021,9, September ,2021,agree,product was notvery fresh thanks
+1476,Eggs,Home Delivery, Basfoods Direct , The Australian Capital Territory ,994,989, $5.00 ," $4,970.00 ", $5.95 , $-   ," $5,884.55 ",21/12/2021,9, September ,2021,disagree,product was very fresh thanks
+1477,Cottage cheese,Home Delivery, Kahvecioglu Grand Foods , Northern Territory ,1118,1113, $11.00 ," $12,298.00 ", $11.95 , $-   ," $13,300.35 ",22/12/2021,11, November ,2021,Extremely Poor,product was not very fresh thanks
+1478,Sour cream,Home Delivery, NSM Foods Direct to Public Outlet Store , The Australian Capital Territory ,1372,1367, $7.00 ," $9,604.00 ", $7.95 , $-   ," $10,867.65 ",23/12/2021,12, December ,2021,strongly agree,prodict not receive ontime
+1479,Yogurt,Grocery, Royal Foods Australia Pty. Ltd. , NSW  ,488,483, $6.00 ," $2,928.00 ", $6.95 , $-   ," $3,356.85 ",24/12/2021,2, February ,2021,strongly diagree,customer service was very friendly 
+1480,Beef,Market, Real Food Distributors , Queensland ,1282,1277, $4.25 ," $5,448.50 ", $5.20 , $-   ," $6,640.40 ",25/12/2021,6, June ,2021,strongly diagree,no one response my email
+1481,Wild Salmon,Fish Market, Quality Foods , Tasmania ,257,252, $12.00 ," $3,084.00 ", $12.95 , $-   ," $3,263.40 ",26/12/2021,5, May ,2021,agree,"there was an issue with my order, team resolve very quickly"
+1482,Oranges,Grocery, First Ray , Western Australia  ,1282,1277, $20.00 ," $25,640.00 ", $20.95 , $-   ," $26,753.15 ",27/12/2021,6, June ,2021,disagree,I like your product 
+1483,Apples,Orchard, Mediterranean Wholesalers , South Australia  ,1540,1535, $3.00 ," $4,620.00 ", $3.95 , $-   ," $6,063.25 ",28/12/2021,8, August ,2021,strongly agree,bad quality 
+1484,Bananas,Grocery, Bruno Fine Foods , Northern Territory ,490,485, $2.00 , $980.00 , $2.95 , $-   ," $1,430.75 ",29/12/2021,11, November ,2021,strongly diagree,good quality 
+1485,Lettuce,Market, Basfoods Direct - Somerton Store , NSW  ,1362,1357, $1.50 ," $2,043.00 ", $2.45 , $-   ," $3,324.65 ",30/12/2021,12, December ,2021,agree,tasty 
+1486,Tomatoes,Market, Glendal Foods , Queensland ,2501,2496, $1.75 ," $4,376.75 ", $2.70 , $-   ," $6,739.20 ",31/12/2021,3, March ,2021,disagree,I like your product 
+1487,Squash,Market, Grocery Industries Australia Pty Ltd , Tasmania ,708,703, $2.00 ," $1,416.00 ", $2.95 , $-   ," $2,073.85 ",1/1/2022,6, June ,2021,Extremely Poor,I don't like this product 
+1488,Oranges,Grocery, Complete Food Services , Western Australia  ,645,640, $5.00 ," $3,225.00 ", $5.95 , $-   ," $3,808.00 ",2/1/2022,7, July ,2021,strongly agree,prodict not receive ontime
+1489,Apples,Orchard, Japan Foods Trading , South Australia  ,1562,1557, $4.00 ," $6,248.00 ", $4.95 , $-   ," $7,707.15 ",3/1/2022,8, August ,2021,strongly diagree,receive ontime 
+1490,Bananas,Grocery, Basfoods Direct , Northern Territory ,1283,1278, $3.50 ," $4,490.50 ", $4.45 , $-   ," $5,687.10 ",4/1/2022,9, September ,2021,strongly diagree,I like your product 
+1491,Oranges,Grocery, Kahvecioglu Grand Foods , The Australian Capital Territory ,711,706, $4.00 ," $2,844.00 ", $4.95 , $-   ," $3,494.70 ",5/1/2022,12, December ,2021,agree,I don't like this product 
+1492,Apples,Orchard, NSM Foods Direct to Public Outlet Store , NSW  ,1114,1109, $2.50 ," $2,785.00 ", $3.45 , $-   ," $3,826.05 ",6/1/2022,3, March ,2021,disagree,product not receive ontime
+1493,Bananas,Grocery, Bera Foods Wholesalers , Queensland ,1259,1254, $5.00 ," $6,295.00 ", $5.95 , $-   ," $7,461.30 ",7/1/2022,4, April ,2021,strongly agree,receive ontime 
+1494,Lettuce,Market, Grocery Industries Australia Pty Ltd , Tasmania ,1095,1090, $11.00 ," $12,045.00 ", $11.95 , $-   ," $13,025.50 ",8/1/2022,5, May ,2021,strongly diagree,I like your product 
+1495,Tomatoes,Market, Complete Food Services , Western Australia  ,1366,1361, $7.00 ," $9,562.00 ", $7.95 , $-   ," $10,819.95 ",9/1/2022,6, June ,2021,agree,I don't like this product 
+1496,Squash,Market, Japan Foods Trading , South Australia  ,2460,2455, $6.00 ," $14,760.00 ", $6.95 , $-   ," $17,062.25 ",10/1/2022,6, June ,2021,disagree,product was very fresh thanks
+1497,Celery,Grocery, Basfoods Direct , Northern Territory ,678,673, $4.25 ," $2,881.50 ", $5.20 , $-   ," $3,499.60 ",11/1/2022,8, August ,2021,Extremely Poor,product was notvery fresh thanks
+1498,Cucumber,Market, Kahvecioglu Grand Foods , NSW  ,1598,1593, $12.00 ," $19,176.00 ", $12.95 , $-   ," $20,629.35 ",12/1/2022,8, August ,2021,strongly agree,product was very fresh thanks
+1499,Mushrooms,Grocery, NSM Foods Direct to Public Outlet Store , Queensland ,2409,2404, $20.00 ," $48,180.00 ", $20.95 , $-   ," $50,363.80 ",13/1/2022,9, September ,2021,strongly diagree,I like your product 
+1500,Milk ,Home Delivery, Bera Foods Wholesalers , Tasmania ,1934,1929, $3.00 ," $5,802.00 ", $3.95 , $-   ," $7,619.55 ",14/1/2022,9, September ,2021,strongly diagree,I don't like this product 
+1501,Cheese,Home Delivery, Grocery Industries Australia Pty Ltd , Western Australia  ,2993,2988, $2.00 ," $5,986.00 ", $2.95 , $-   ," $8,814.60 ",15/1/2022,9, September ,2021,agree,product not receive ontime
+1502,Eggs,Home Delivery, Complete Food Services , South Australia  ,2146,2141, $1.50 ," $3,219.00 ", $2.45 , $-   ," $5,245.45 ",16/1/2022,11, November ,2021,disagree,receive ontime 
+1503,Cottage cheese,Home Delivery, Japan Foods Trading , Northern Territory ,1946,1941, $1.75 ," $3,405.50 ", $2.70 , $-   ," $5,240.70 ",17/1/2022,12, December ,2021,strongly agree,I like your product 
+1504,Sour cream,Home Delivery, Basfoods Direct , The Australian Capital Territory ,1362,1357, $2.00 ," $2,724.00 ", $2.95 , $-   ," $4,003.15 ",18/1/2022,12, December ,2021,strongly diagree,I don't like this product 
+1505,Yogurt,Grocery, Grocery Industries Australia Pty Ltd , NSW  ,598,593, $5.00 ," $2,990.00 ", $5.95 , $-   ," $3,528.35 ",19/1/2022,3, March ,2021,agree,product was very fresh thanks
+1506,Beef,Market, Complete Food Services , Queensland ,2907,2902, $4.00 ," $11,628.00 ", $4.95 , $-   ," $14,364.90 ",20/1/2022,6, June ,2021,disagree,product was notvery fresh thanks
+1507,Wild Salmon,Fish Market, Royal Foods Australia Pty. Ltd. , Tasmania ,2338,2333, $3.50 ," $8,183.00 ", $4.45 , $-   ," $10,381.85 ",21/1/2022,6, June ,2021,Extremely Poor,product was very fresh thanks
+1508,Oranges,Grocery, Real Food Distributors , Western Australia  ,386,381, $4.00 ," $1,544.00 ", $4.95 , $-   ," $1,885.95 ",22/1/2022,11, November ,2021,strongly agree,product was not very fresh thanks
+1509,Apples,Orchard, Quality Foods , South Australia  ,635,630, $2.50 ," $1,587.50 ", $3.45 , $-   ," $2,173.50 ",23/1/2022,12, December ,2021,strongly diagree,prodict not receive ontime
+1510,Bananas,Grocery, First Ray , NSW  ,574.5,569.5, $5.00 ," $2,872.50 ", $5.95 , $-   ," $3,388.53 ",24/1/2022,4, April ,2021,strongly diagree,customer service was very friendly 
+1511,Lettuce,Market, Mediterranean Wholesalers , Queensland ,2338,2333, $11.00 ," $25,718.00 ", $11.95 , $-   ," $27,879.35 ",25/1/2022,6, June ,2021,agree,no one response my email
+1512,Tomatoes,Market, Bruno Fine Foods , Tasmania ,381,376, $7.00 ," $2,667.00 ", $7.95 , $-   ," $2,989.20 ",26/1/2022,8, August ,2021,disagree,"there was an issue with my order, team resolve very quickly"
+1513,Squash,Market, Basfoods Direct - Somerton Store , Western Australia  ,422,417, $6.00 ," $2,532.00 ", $6.95 , $-   ," $2,898.15 ",27/1/2022,8, August ,2021,strongly agree,I like your product 
+1514,Oranges,Grocery, Glendal Foods , South Australia  ,2134,2129, $4.25 ," $9,069.50 ", $5.20 , $-   ," $11,070.80 ",28/1/2022,9, September ,2021,strongly diagree,bad quality 
+1515,Apples,Orchard, Grocery Industries Australia Pty Ltd , NSW  ,808,803, $12.00 ," $9,696.00 ", $12.95 , $-   ," $10,398.85 ",29/1/2022,12, December ,2021,agree,good quality 
+1516,Oranges,Grocery, Complete Food Services , Queensland ,708,703, $20.00 ," $14,160.00 ", $20.95 , $-   ," $14,727.85 ",30/1/2022,6, June ,2021,disagree,tasty 
+1517,Apples,Orchard, Japan Foods Trading , Tasmania ,2907,2902, $3.00 ," $8,721.00 ", $3.95 , $-   ," $11,462.90 ",31/1/2022,6, June ,2021,Extremely Poor,I like your product 
+1518,Bananas,Grocery, Basfoods Direct , Western Australia  ,1366,1361, $2.00 ," $2,732.00 ", $2.95 , $-   ," $4,014.95 ",1/2/2022,6, June ,2021,strongly agree,I don't like this product 
+1519,Lettuce,Market, Kahvecioglu Grand Foods , South Australia  ,2460,2455, $1.50 ," $3,690.00 ", $2.45 , $-   ," $6,014.75 ",2/2/2022,6, June ,2021,strongly diagree,prodict not receive ontime
+1520,Tomatoes,Market, NSM Foods Direct to Public Outlet Store , Northern Territory ,1520,1515, $1.75 ," $2,660.00 ", $2.70 , $-   ," $4,090.50 ",3/2/2022,11, November ,2021,strongly diagree,receive ontime 
+1521,Squash,Market, Bera Foods Wholesalers , The Australian Capital Territory ,711,706, $2.00 ," $1,422.00 ", $2.95 , $-   ," $2,082.70 ",4/2/2022,12, December ,2021,agree,I like your product 
+1522,Celery,Grocery, Grocery Industries Australia Pty Ltd , Northern Territory ,1375,1370, $5.00 ," $6,875.00 ", $5.95 , $-   ," $8,151.50 ",5/2/2022,12, December ,2021,disagree,I don't like this product 
+1523,Cucumber,Market, Complete Food Services , The Australian Capital Territory ,635,630, $4.00 ," $2,540.00 ", $4.95 , $-   ," $3,118.50 ",6/2/2022,12, December ,2021,strongly agree,product not receive ontime
+1524,Mushrooms,Grocery, Japan Foods Trading , NSW  ,436.5,431.5, $3.50 ," $1,527.75 ", $4.45 , $-   ," $1,920.18 ",7/2/2022,7, July ,2021,strongly diagree,receive ontime 
+1525,Milk ,Home Delivery, Basfoods Direct , Queensland ,1094,1089, $4.00 ," $4,376.00 ", $4.95 , $-   ," $5,390.55 ",8/2/2022,6, June ,2021,agree,I like your product 
+1526,Cheese,Home Delivery, Kahvecioglu Grand Foods , Tasmania ,367,362, $2.50 , $917.50 , $3.45 , $-   ," $1,248.90 ",9/2/2022,10, October ,2021,disagree,I don't like this product 
+1527,Eggs,Home Delivery, NSM Foods Direct to Public Outlet Store , Western Australia  ,3802.5,3797.5, $5.00 ," $19,012.50 ", $5.95 , $-   ," $22,595.13 ",10/2/2022,4, April ,2021,Extremely Poor,product was very fresh thanks
+1528,Cottage cheese,Home Delivery, Bera Foods Wholesalers , South Australia  ,1666,1661, $11.00 ," $18,326.00 ", $11.95 , $-   ," $19,848.95 ",11/2/2022,5, May ,2021,strongly agree,product was notvery fresh thanks
+1529,Sour cream,Home Delivery, Grocery Industries Australia Pty Ltd , Northern Territory ,322,317, $7.00 ," $2,254.00 ", $7.95 , $-   ," $2,520.15 ",12/2/2022,9, September ,2021,strongly diagree,product was very fresh thanks
+1530,Yogurt,Grocery, Complete Food Services , The Australian Capital Territory ,2321,2316, $6.00 ," $13,926.00 ", $6.95 , $-   ," $16,096.20 ",13/2/2022,11, November ,2021,strongly diagree,I like your product 
+1531,Beef,Market, Japan Foods Trading , NSW  ,1857,1852, $4.25 ," $7,892.25 ", $5.20 , $-   ," $9,630.40 ",14/2/2022,11, November ,2021,agree,I don't like this product 
+1532,Wild Salmon,Fish Market, Basfoods Direct , Queensland ,1611,1606, $12.00 ," $19,332.00 ", $12.95 , $-   ," $20,797.70 ",15/2/2022,12, December ,2021,disagree,product not receive ontime
+1533,Oranges,Grocery, Grocery Industries Australia Pty Ltd , Tasmania ,2797,2792, $20.00 ," $55,940.00 ", $20.95 , $-   ," $58,492.40 ",16/2/2022,12, December ,2021,strongly agree,receive ontime 
+1534,Apples,Orchard, Complete Food Services , Western Australia  ,334,329, $3.00 ," $1,002.00 ", $3.95 , $-   ," $1,299.55 ",17/2/2022,12, December ,2021,strongly diagree,I like your product 
+1535,Bananas,Grocery, Japan Foods Trading , South Australia  ,2565,2560, $2.00 ," $5,130.00 ", $2.95 , $-   ," $7,552.00 ",18/2/2022,1, January ,2021,agree,I don't like this product 
+1536,Lettuce,Market, Basfoods Direct , Northern Territory ,2417,2412, $1.50 ," $3,625.50 ", $2.45 , $-   ," $5,909.40 ",19/2/2022,1, January ,2021,disagree,product was very fresh thanks
+1537,Tomatoes,Market, Royal Foods Australia Pty. Ltd. , The Australian Capital Territory ,3675,3670, $1.75 ," $6,431.25 ", $2.70 , $-   ," $9,909.00 ",20/2/2022,4, April ,2021,Extremely Poor,product was notvery fresh thanks
+1538,Squash,Market, Real Food Distributors , NSW  ,1094,1089, $2.00 ," $2,188.00 ", $2.95 , $-   ," $3,212.55 ",21/2/2022,6, June ,2021,strongly agree,product was very fresh thanks
+1539,Oranges,Grocery, Quality Foods , Queensland ,1227,1222, $5.00 ," $6,135.00 ", $5.95 , $-   ," $7,270.90 ",22/2/2022,10, October ,2021,strongly diagree,product was not very fresh thanks
+1540,Apples,Orchard, First Ray , Tasmania ,367,362, $4.00 ," $1,468.00 ", $4.95 , $-   ," $1,791.90 ",23/2/2022,10, October ,2021,strongly diagree,prodict not receive ontime
+1541,Bananas,Grocery, Mediterranean Wholesalers , Western Australia  ,1324,1319, $3.50 ," $4,634.00 ", $4.45 , $-   ," $5,869.55 ",24/2/2022,11, November ,2021,agree,customer service was very friendly 
+1542,Oranges,Grocery, Bruno Fine Foods , South Australia  ,1775,1770, $4.00 ," $7,100.00 ", $4.95 , $-   ," $8,761.50 ",25/2/2022,11, November ,2021,disagree,no one response my email
+1543,Apples,Orchard, Basfoods Direct - Somerton Store , Northern Territory ,2797,2792, $2.50 ," $6,992.50 ", $3.45 , $-   ," $9,632.40 ",26/2/2022,12, December ,2021,strongly agree,"there was an issue with my order, team resolve very quickly"
+1544,Bananas,Grocery, Glendal Foods , NSW  ,245,240, $5.00 ," $1,225.00 ", $5.95 , $-   ," $1,428.00 ",27/2/2022,5, May ,2021,strongly diagree,I like your product 
+1545,Lettuce,Market, Grocery Industries Australia Pty Ltd , Queensland ,3793.5,3788.5, $11.00 ," $41,728.50 ", $11.95 , $-   ," $45,272.58 ",28/2/2022,7, July ,2021,agree,bad quality 
+1546,Tomatoes,Market, Complete Food Services , Tasmania ,1307,1302, $7.00 ," $9,149.00 ", $7.95 , $-   ," $10,350.90 ",1/3/2022,7, July ,2021,disagree,good quality 
+1547,Squash,Market, Japan Foods Trading , Western Australia  ,567,562, $6.00 ," $3,402.00 ", $6.95 , $-   ," $3,905.90 ",2/3/2022,9, September ,2021,Extremely Poor,tasty 
+1548,Celery,Grocery, Basfoods Direct , South Australia  ,2110,2105, $4.25 ," $8,967.50 ", $5.20 , $-   ," $10,946.00 ",3/3/2022,9, September ,2021,strongly agree,I like your product 
+1549,Cucumber,Market, Kahvecioglu Grand Foods , Northern Territory ,1269,1264, $12.00 ," $15,228.00 ", $12.95 , $-   ," $16,368.80 ",4/3/2022,10, October ,2021,strongly diagree,I don't like this product 
+1550,Mushrooms,Grocery, NSM Foods Direct to Public Outlet Store , The Australian Capital Territory ,1956,1951, $20.00 ," $39,120.00 ", $20.95 , $-   ," $40,873.45 ",5/3/2022,1, January ,2021,strongly diagree,prodict not receive ontime
+1551,Milk ,Home Delivery, Bera Foods Wholesalers , NSW  ,2659,2654, $3.00 ," $7,977.00 ", $3.95 , $-   ," $10,483.30 ",6/3/2022,2, February ,2021,agree,receive ontime 
+1552,Cheese,Home Delivery, Grocery Industries Australia Pty Ltd , Queensland ,1351.5,1346.5, $2.00 ," $2,703.00 ", $2.95 , $-   ," $3,972.18 ",7/3/2022,4, April ,2021,disagree,I like your product 
+1553,Eggs,Home Delivery, Complete Food Services , Tasmania ,880,875, $1.50 ," $1,320.00 ", $2.45 , $-   ," $2,143.75 ",8/3/2022,5, May ,2021,strongly agree,I don't like this product 
+1554,Cottage cheese,Home Delivery, Japan Foods Trading , Western Australia  ,1867,1862, $1.75 ," $3,267.25 ", $2.70 , $-   ," $5,027.40 ",9/3/2022,9, September ,2021,strongly diagree,product not receive ontime
+1555,Sour cream,Home Delivery, Basfoods Direct , South Australia  ,2234,2229, $2.00 ," $4,468.00 ", $2.95 , $-   ," $6,575.55 ",10/3/2022,9, September ,2021,agree,receive ontime 
+1556,Yogurt,Grocery, Kahvecioglu Grand Foods , NSW  ,1227,1222, $5.00 ," $6,135.00 ", $5.95 , $-   ," $7,270.90 ",11/3/2022,10, October ,2021,disagree,I like your product 
+1557,Beef,Market, NSM Foods Direct to Public Outlet Store , Queensland ,877,872, $4.00 ," $3,508.00 ", $4.95 , $-   ," $4,316.40 ",12/3/2022,11, November ,2021,Extremely Poor,I don't like this product 
+1558,Wild Salmon,Fish Market, Bera Foods Wholesalers , Tasmania ,2071,2066, $3.50 ," $7,248.50 ", $4.45 , $-   ," $9,193.70 ",13/3/2022,9, September ,2021,strongly agree,product was very fresh thanks
+1559,Oranges,Grocery, Grocery Industries Australia Pty Ltd , Western Australia  ,1269,1264, $4.00 ," $5,076.00 ", $4.95 , $-   ," $6,256.80 ",14/3/2022,10, October ,2021,strongly diagree,product was notvery fresh thanks
+1560,Apples,Orchard, Complete Food Services , South Australia  ,970,965, $2.50 ," $2,425.00 ", $3.45 , $-   ," $3,329.25 ",15/3/2022,11, November ,2021,strongly diagree,product was very fresh thanks
+1561,Bananas,Grocery, Japan Foods Trading , NSW  ,1694,1689, $5.00 ," $8,470.00 ", $5.95 , $-   ," $10,049.55 ",16/3/2022,11, November ,2021,agree,I like your product 
+1562,Lettuce,Market, Basfoods Direct , Queensland ,663,658, $11.00 ," $7,293.00 ", $11.95 , $-   ," $7,863.10 ",17/3/2022,5, May ,2021,disagree,I don't like this product 
+1563,Tomatoes,Market, Grocery Industries Australia Pty Ltd , Tasmania ,819,814, $7.00 ," $5,733.00 ", $7.95 , $-   ," $6,471.30 ",18/3/2022,7, July ,2021,strongly agree,product not receive ontime
+1564,Squash,Market, Complete Food Services , Western Australia  ,1580,1575, $6.00 ," $9,480.00 ", $6.95 , $-   ," $10,946.25 ",19/3/2022,9, September ,2021,strongly diagree,receive ontime 
+1565,Celery,Grocery, Japan Foods Trading , South Australia  ,521,516, $4.25 ," $2,214.25 ", $5.20 , $-   ," $2,683.20 ",20/3/2022,12, December ,2021,agree,I like your product 
+1566,Cucumber,Market, Basfoods Direct , Northern Territory ,973,968, $12.00 ," $11,676.00 ", $12.95 , $-   ," $12,535.60 ",21/3/2022,3, March ,2021,disagree,I don't like this product 
+1567,Mushrooms,Grocery, Kahvecioglu Grand Foods , The Australian Capital Territory ,1038,1033, $20.00 ," $20,760.00 ", $20.95 , $-   ," $21,641.35 ",22/3/2022,6, June ,2021,Extremely Poor,product was very fresh thanks
+1568,Milk ,Home Delivery, NSM Foods Direct to Public Outlet Store , Northern Territory ,360,355, $3.00 ," $1,080.00 ", $3.95 , $-   ," $1,402.25 ",23/3/2022,10, October ,2021,strongly agree,product was notvery fresh thanks
+1569,Cheese,Home Delivery, Bera Foods Wholesalers , The Australian Capital Territory ,1967,1962, $2.00 ," $3,934.00 ", $2.95 , $-   ," $5,787.90 ",24/3/2022,3, March ,2021,strongly diagree,product was very fresh thanks
+1570,Eggs,Home Delivery, Royal Foods Australia Pty. Ltd. , NSW  ,2628,2623, $1.50 ," $3,942.00 ", $2.45 , $-   ," $6,426.35 ",25/3/2022,4, April ,2021,strongly diagree,product was not very fresh thanks
+1571,Cottage cheese,Home Delivery, Real Food Distributors , Queensland ,360,355, $1.75 , $630.00 , $2.70 , $-   , $958.50 ,26/3/2022,10, October ,2021,agree,prodict not receive ontime
+1572,Sour cream,Home Delivery, Quality Foods , Tasmania ,2682,2677, $2.00 ," $5,364.00 ", $2.95 , $-   ," $7,897.15 ",27/3/2022,11, November ,2021,disagree,customer service was very friendly 
+1573,Yogurt,Grocery, First Ray , Western Australia  ,521,516, $5.00 ," $2,605.00 ", $5.95 , $-   ," $3,070.20 ",28/3/2022,12, December ,2021,strongly agree,no one response my email
+1574,Beef,Market, Mediterranean Wholesalers , South Australia  ,1038,1033, $4.00 ," $4,152.00 ", $4.95 , $-   ," $5,113.35 ",29/3/2022,6, June ,2021,strongly diagree,"there was an issue with my order, team resolve very quickly"
+1575,Wild Salmon,Fish Market, Bruno Fine Foods , Northern Territory ,1630.5,1625.5, $3.50 ," $5,706.75 ", $4.45 , $-   ," $7,233.48 ",30/3/2022,7, July ,2021,agree,I like your product 
+1576,Oranges,Grocery, Basfoods Direct - Somerton Store , The Australian Capital Territory ,306,301, $4.00 ," $1,224.00 ", $4.95 , $-   ," $1,489.95 ",31/3/2022,12, December ,2021,disagree,bad quality 
+1577,Apples,Orchard, Glendal Foods , NSW  ,386,381, $2.50 , $965.00 , $3.45 , $-   ," $1,314.45 ",1/4/2022,10, October ,2021,Extremely Poor,good quality 
+1578,Bananas,Grocery, Grocery Industries Australia Pty Ltd , Queensland ,2328,2323, $5.00 ," $11,640.00 ", $5.95 , $-   ," $13,821.85 ",2/4/2022,9, September ,2021,strongly agree,tasty 
+1579,Lettuce,Market, Complete Food Services , Tasmania ,386,381, $11.00 ," $4,246.00 ", $11.95 , $-   ," $4,552.95 ",3/4/2022,10, October ,2021,strongly diagree,I like your product 
+1580,Tomatoes,Market, Japan Foods Trading , Western Australia  ,3445.5,3440.5, $7.00 ," $24,118.50 ", $7.95 , $-   ," $27,351.98 ",4/4/2022,4, April ,2021,strongly diagree,I don't like this product 
+1581,Squash,Market, Basfoods Direct , South Australia  ,1482,1477, $6.00 ," $8,892.00 ", $6.95 , $-   ," $10,265.15 ",5/4/2022,12, December ,2021,agree,prodict not receive ontime
+1582,Oranges,Grocery, Kahvecioglu Grand Foods , Northern Territory ,2313,2308, $4.25 ," $9,830.25 ", $5.20 , $-   ," $12,001.60 ",6/4/2022,5, May ,2021,disagree,receive ontime 
+1583,Oranges,Grocery, NSM Foods Direct to Public Outlet Store , The Australian Capital Territory ,1804,1799, $12.00 ," $21,648.00 ", $12.95 , $-   ," $23,297.05 ",7/4/2022,11, November ,2021,strongly agree,I like your product 
+1584,Apples,Orchard, Bera Foods Wholesalers , NSW  ,2072,2067, $20.00 ," $41,440.00 ", $20.95 , $-   ," $43,303.65 ",8/4/2022,12, December ,2021,strongly diagree,I don't like this product 
+1585,Bananas,Grocery, Grocery Industries Australia Pty Ltd , Queensland ,1954,1949, $3.00 ," $5,862.00 ", $3.95 , $-   ," $7,698.55 ",9/4/2022,3, March ,2021,agree,product not receive ontime
+1586,Lettuce,Market, Complete Food Services , Tasmania ,591,586, $2.00 ," $1,182.00 ", $2.95 , $-   ," $1,728.70 ",10/4/2022,5, May ,2021,disagree,receive ontime 
+1587,Tomatoes,Market, Japan Foods Trading , Western Australia  ,2167,2162, $1.50 ," $3,250.50 ", $2.45 , $-   ," $5,296.90 ",11/4/2022,10, October ,2021,Extremely Poor,I like your product 
+1588,Squash,Market, Basfoods Direct , South Australia  ,241,236, $1.75 , $421.75 , $2.70 , $-   , $637.20 ,12/4/2022,10, October ,2021,strongly agree,I don't like this product 
+1589,Celery,Grocery, Kahvecioglu Grand Foods , Northern Territory ,681,676, $2.00 ," $1,362.00 ", $2.95 , $-   ," $1,994.20 ",13/4/2022,1, January ,2021,strongly diagree,product was very fresh thanks
+1590,Cucumber,Market, NSM Foods Direct to Public Outlet Store , NSW  ,510,505, $5.00 ," $2,550.00 ", $5.95 , $-   ," $3,004.75 ",14/4/2022,4, April ,2021,strongly diagree,product was notvery fresh thanks
+1591,Mushrooms,Grocery, Bera Foods Wholesalers , Queensland ,790,785, $4.00 ," $3,160.00 ", $4.95 , $-   ," $3,885.75 ",15/4/2022,5, May ,2021,agree,product was very fresh thanks
+1592,Milk ,Home Delivery, Grocery Industries Australia Pty Ltd , Tasmania ,639,634, $3.50 ," $2,236.50 ", $4.45 , $-   ," $2,821.30 ",16/4/2022,7, July ,2021,disagree,I like your product 
+1593,Cheese,Home Delivery, Complete Food Services , Western Australia  ,1596,1591, $4.00 ," $6,384.00 ", $4.95 , $-   ," $7,875.45 ",17/4/2022,9, September ,2021,strongly agree,I don't like this product 
+1594,Eggs,Home Delivery, Japan Foods Trading , South Australia  ,2294,2289, $2.50 ," $5,735.00 ", $3.45 , $-   ," $7,897.05 ",18/4/2022,10, October ,2021,strongly diagree,product not receive ontime
+1595,Cottage cheese,Home Delivery, Basfoods Direct , Northern Territory ,241,236, $5.00 ," $1,205.00 ", $5.95 , $-   ," $1,404.20 ",19/4/2022,10, October ,2021,agree,receive ontime 
+1596,Sour cream,Home Delivery, Grocery Industries Australia Pty Ltd , The Australian Capital Territory ,2665,2660, $11.00 ," $29,315.00 ", $11.95 , $-   ," $31,787.00 ",20/4/2022,11, November ,2021,disagree,I like your product 
+1597,Yogurt,Grocery, Complete Food Services , NSW  ,1916,1911, $7.00 ," $13,412.00 ", $7.95 , $-   ," $15,192.45 ",21/4/2022,12, December ,2021,Extremely Poor,I don't like this product 
+1598,Beef,Market, Japan Foods Trading , Queensland ,853,848, $6.00 ," $5,118.00 ", $6.95 , $-   ," $5,893.60 ",22/4/2022,12, December ,2021,strongly agree,product was very fresh thanks
+1599,Wild Salmon,Fish Market, Royal Foods Australia Pty. Ltd. , Tasmania ,341,336, $4.25 ," $1,449.25 ", $5.20 , $-   ," $1,747.20 ",23/4/2022,5, May ,2021,strongly diagree,product was notvery fresh thanks
+1600,Oranges,Grocery, Real Food Distributors , Western Australia  ,641,636, $12.00 ," $7,692.00 ", $12.95 , $-   ," $8,236.20 ",24/4/2022,7, July ,2021,strongly diagree,product was very fresh thanks
+1601,Apples,Orchard, Quality Foods , South Australia  ,2807,2802, $20.00 ," $56,140.00 ", $20.95 , $-   ," $58,701.90 ",25/4/2022,8, August ,2021,agree,product was not very fresh thanks
+1602,Bananas,Grocery, First Ray , NSW  ,432,427, $3.00 ," $1,296.00 ", $3.95 , $-   ," $1,686.65 ",26/4/2022,9, September ,2021,disagree,prodict not receive ontime
+1603,Lettuce,Market, Mediterranean Wholesalers , Queensland ,2294,2289, $2.00 ," $4,588.00 ", $2.95 , $-   ," $6,752.55 ",27/4/2022,10, October ,2021,strongly agree,customer service was very friendly 
+1604,Tomatoes,Market, Bruno Fine Foods , Tasmania ,2167,2162, $1.50 ," $3,250.50 ", $2.45 , $-   ," $5,296.90 ",28/4/2022,10, October ,2021,strongly diagree,no one response my email
+1605,Squash,Market, Basfoods Direct - Somerton Store , Western Australia  ,2529,2524, $1.75 ," $4,425.75 ", $2.70 , $-   ," $6,814.80 ",29/4/2022,11, November ,2021,agree,"there was an issue with my order, team resolve very quickly"
+1606,Oranges,Grocery, Glendal Foods , South Australia  ,1870,1865, $2.00 ," $3,740.00 ", $2.95 , $-   ," $5,501.75 ",30/4/2022,12, December ,2021,disagree,I like your product 
+1607,Apples,Orchard, Grocery Industries Australia Pty Ltd , NSW  ,579,574, $5.00 ," $2,895.00 ", $5.95 , $-   ," $3,415.30 ",1/5/2022,1, January ,2021,Extremely Poor,bad quality 
+1608,Oranges,Grocery, Complete Food Services , Queensland ,2240,2235, $4.00 ," $8,960.00 ", $4.95 , $-   ," $11,063.25 ",2/5/2022,2, February ,2021,strongly agree,good quality 
+1609,Apples,Orchard, Japan Foods Trading , Tasmania ,2993,2988, $3.50 ," $10,475.50 ", $4.45 , $-   ," $13,296.60 ",3/5/2022,3, March ,2021,strongly diagree,tasty 
+1610,Bananas,Grocery, Basfoods Direct , Western Australia  ,3520.5,3515.5, $4.00 ," $14,082.00 ", $4.95 , $-   ," $17,401.73 ",4/5/2022,4, April ,2021,strongly diagree,I like your product 
+1611,Lettuce,Market, Kahvecioglu Grand Foods , South Australia  ,2039,2034, $2.50 ," $5,097.50 ", $3.45 , $-   ," $7,017.30 ",5/5/2022,5, May ,2021,agree,I don't like this product 
+1612,Tomatoes,Market, NSM Foods Direct to Public Outlet Store , Northern Territory ,2574,2569, $5.00 ," $12,870.00 ", $5.95 , $-   ," $15,285.55 ",6/5/2022,8, August ,2021,disagree,prodict not receive ontime
+1613,Squash,Market, Bera Foods Wholesalers , The Australian Capital Territory ,707,702, $11.00 ," $7,777.00 ", $11.95 , $-   ," $8,388.90 ",7/5/2022,9, September ,2021,strongly agree,receive ontime 
+1614,Celery,Grocery, Grocery Industries Australia Pty Ltd , Northern Territory ,2072,2067, $7.00 ," $14,504.00 ", $7.95 , $-   ," $16,432.65 ",8/5/2022,12, December ,2021,strongly diagree,I like your product 
+1615,Cucumber,Market, Complete Food Services , The Australian Capital Territory ,853,848, $6.00 ," $5,118.00 ", $6.95 , $-   ," $5,893.60 ",9/5/2022,12, December ,2021,agree,I don't like this product 
+1616,Mushrooms,Grocery, Japan Foods Trading , NSW  ,1198,1193, $4.25 ," $5,091.50 ", $5.20 , $-   ," $6,203.60 ",10/5/2022,10, October ,2021,disagree,product not receive ontime
+1617,Milk ,Home Delivery, Basfoods Direct , Queensland ,2532,2527, $12.00 ," $30,384.00 ", $12.95 , $-   ," $32,724.65 ",11/5/2022,4, April ,2021,Extremely Poor,receive ontime 
+1618,Cheese,Home Delivery, Kahvecioglu Grand Foods , Tasmania ,1198,1193, $20.00 ," $23,960.00 ", $20.95 , $-   ," $24,993.35 ",12/5/2022,10, October ,2021,strongly agree,I like your product 
+1619,Eggs,Home Delivery, NSM Foods Direct to Public Outlet Store , Western Australia  ,384,379, $3.00 ," $1,152.00 ", $3.95 , $-   ," $1,497.05 ",13/5/2022,1, January ,2021,strongly diagree,I don't like this product 
+1620,Cottage cheese,Home Delivery, Bera Foods Wholesalers , South Australia  ,472,467, $2.00 , $944.00 , $2.95 , $-   ," $1,377.65 ",14/5/2022,10, October ,2021,strongly diagree,product was very fresh thanks
+1621,Sour cream,Home Delivery, Grocery Industries Australia Pty Ltd , Northern Territory ,1579,1574, $1.50 ," $2,368.50 ", $2.45 , $-   ," $3,856.30 ",15/5/2022,3, March ,2021,agree,product was notvery fresh thanks
+1622,Yogurt,Grocery, Complete Food Services , The Australian Capital Territory ,1005,1000, $1.75 ," $1,758.75 ", $2.70 , $-   ," $2,700.00 ",16/5/2022,9, September ,2021,disagree,product was very fresh thanks
+1623,Beef,Market, Japan Foods Trading , NSW  ,3199.5,3194.5, $2.00 ," $6,399.00 ", $2.95 , $-   ," $9,423.78 ",17/5/2022,7, July ,2021,strongly agree,I like your product 
+1624,Wild Salmon,Fish Market, Basfoods Direct , Queensland ,472,467, $5.00 ," $2,360.00 ", $5.95 , $-   ," $2,778.65 ",18/5/2022,10, October ,2021,strongly diagree,I don't like this product 
+1625,Oranges,Grocery, Grocery Industries Australia Pty Ltd , Tasmania ,1937,1932, $4.00 ," $7,748.00 ", $4.95 , $-   ," $9,563.40 ",19/5/2022,2, February ,2021,agree,product not receive ontime
+1626,Oranges,Grocery, Complete Food Services , Western Australia  ,792,787, $3.50 ," $2,772.00 ", $4.45 , $-   ," $3,502.15 ",20/5/2022,3, March ,2021,disagree,receive ontime 
+1627,Apples,Orchard, Japan Foods Trading , South Australia  ,2811,2806, $4.00 ," $11,244.00 ", $4.95 , $-   ," $13,889.70 ",21/5/2022,7, July ,2021,Extremely Poor,I like your product 
+1628,Bananas,Grocery, Basfoods Direct , Northern Territory ,2441,2436, $2.50 ," $6,102.50 ", $3.45 , $-   ," $8,404.20 ",22/5/2022,10, October ,2021,strongly agree,I don't like this product 
+1629,Lettuce,Market, Kahvecioglu Grand Foods , The Australian Capital Territory ,1560,1555, $5.00 ," $7,800.00 ", $5.95 , $-   ," $9,252.25 ",23/5/2022,11, November ,2021,strongly diagree,product was very fresh thanks
+1630,Tomatoes,Market, NSM Foods Direct to Public Outlet Store , NSW  ,2706,2701, $11.00 ," $29,766.00 ", $11.95 , $-   ," $32,276.95 ",24/5/2022,11, November ,2021,strongly diagree,product was notvery fresh thanks
+1631,Squash,Market, Bera Foods Wholesalers , Queensland ,766,761, $7.00 ," $5,362.00 ", $7.95 , $-   ," $6,049.95 ",25/5/2022,1, January ,2021,agree,product was very fresh thanks
+1632,Celery,Grocery, Royal Foods Australia Pty. Ltd. , Tasmania ,2992,2987, $6.00 ," $17,952.00 ", $6.95 , $-   ," $20,759.65 ",26/5/2022,10, October ,2021,disagree,product was not very fresh thanks
+1633,Cucumber,Market, Real Food Distributors , Western Australia  ,2157,2152, $4.25 ," $9,167.25 ", $5.20 , $-   ," $11,190.40 ",27/5/2022,12, December ,2021,strongly agree,prodict not receive ontime
+1634,Mushrooms,Grocery, Quality Foods , South Australia  ,873,868, $12.00 ," $10,476.00 ", $12.95 , $-   ," $11,240.60 ",28/5/2022,1, January ,2021,strongly diagree,customer service was very friendly 
+1635,Milk ,Home Delivery, First Ray , Northern Territory ,1122,1117, $20.00 ," $22,440.00 ", $20.95 , $-   ," $23,401.15 ",29/5/2022,3, March ,2021,agree,no one response my email
+1636,Cheese,Home Delivery, Mediterranean Wholesalers , NSW  ,2104.5,2099.5, $3.00 ," $6,313.50 ", $3.95 , $-   ," $8,293.03 ",30/5/2022,7, July ,2021,disagree,"there was an issue with my order, team resolve very quickly"
+1637,Eggs,Home Delivery, Bruno Fine Foods , Queensland ,4026,4021, $2.00 ," $8,052.00 ", $2.95 , $-   ," $11,861.95 ",31/5/2022,7, July ,2021,Extremely Poor,I like your product 
+1638,Cottage cheese,Home Delivery, Basfoods Direct - Somerton Store , Tasmania ,2425.5,2420.5, $1.50 ," $3,638.25 ", $2.45 , $-   ," $5,930.23 ",1/6/2022,7, July ,2021,strongly agree,bad quality 
+1639,Sour cream,Home Delivery, Glendal Foods , Western Australia  ,2394,2389, $1.75 ," $4,189.50 ", $2.70 , $-   ," $6,450.30 ",2/6/2022,8, August ,2021,strongly diagree,good quality 
+1640,Yogurt,Grocery, Grocery Industries Australia Pty Ltd , South Australia  ,1984,1979, $2.00 ," $3,968.00 ", $2.95 , $-   ," $5,838.05 ",3/6/2022,8, August ,2021,strongly diagree,tasty 
+1641,Beef,Market, Complete Food Services , Northern Territory ,2441,2436, $5.00 ," $12,205.00 ", $5.95 , $-   ," $14,494.20 ",4/6/2022,10, October ,2021,agree,I like your product 
+1642,Wild Salmon,Fish Market, Japan Foods Trading , The Australian Capital Territory ,2992,2987, $4.00 ," $11,968.00 ", $4.95 , $-   ," $14,785.65 ",5/6/2022,10, October ,2021,disagree,I don't like this product 
+1643,Oranges,Grocery, Basfoods Direct , NSW  ,1366,1361, $3.50 ," $4,781.00 ", $4.45 , $-   ," $6,056.45 ",6/6/2022,11, November ,2021,strongly agree,prodict not receive ontime
+1644,Apples,Orchard, Kahvecioglu Grand Foods , Queensland ,2805,2800, $4.00 ," $11,220.00 ", $4.95 , $-   ," $13,860.00 ",7/6/2022,9, September ,2021,strongly diagree,receive ontime 
+1645,Bananas,Grocery, NSM Foods Direct to Public Outlet Store , Tasmania ,655,650, $2.50 ," $1,637.50 ", $3.45 , $-   ," $2,242.50 ",8/6/2022,9, September ,2021,agree,I like your product 
+1646,Lettuce,Market, Bera Foods Wholesalers , Western Australia  ,344,339, $5.00 ," $1,720.00 ", $5.95 , $-   ," $2,017.05 ",9/6/2022,10, October ,2021,disagree,I don't like this product 
+1647,Tomatoes,Market, Grocery Industries Australia Pty Ltd , South Australia  ,1808,1803, $11.00 ," $19,888.00 ", $11.95 , $-   ," $21,545.85 ",10/6/2022,11, November ,2021,Extremely Poor,product not receive ontime
+1648,Squash,Market, Complete Food Services , NSW  ,1734,1729, $7.00 ," $12,138.00 ", $7.95 , $-   ," $13,745.55 ",11/6/2022,1, January ,2021,strongly agree,receive ontime 
+1649,Oranges,Grocery, Japan Foods Trading , Queensland ,554,549, $6.00 ," $3,324.00 ", $6.95 , $-   ," $3,815.55 ",12/6/2022,1, January ,2021,strongly diagree,I like your product 
+1650,Apples,Orchard, Basfoods Direct , Tasmania ,2935,2930, $4.25 ," $12,473.75 ", $5.20 , $-   ," $15,236.00 ",13/6/2022,11, November ,2021,strongly diagree,I don't like this product 
+1651,Bananas,Grocery, Kahvecioglu Grand Foods , Western Australia  ,3165,3160, $12.00 ," $37,980.00 ", $12.95 , $-   ," $40,922.00 ",14/6/2022,1, January ,2021,agree,product was very fresh thanks
+1652,Oranges,Grocery, NSM Foods Direct to Public Outlet Store , South Australia  ,2629,2624, $20.00 ," $52,580.00 ", $20.95 , $-   ," $54,972.80 ",15/6/2022,1, January ,2021,disagree,product was notvery fresh thanks
+1653,Apples,Orchard, Bera Foods Wholesalers , NSW  ,1433,1428, $3.00 ," $4,299.00 ", $3.95 , $-   ," $5,640.60 ",16/6/2022,5, May ,2021,strongly agree,product was very fresh thanks
+1654,Bananas,Grocery, Grocery Industries Australia Pty Ltd , Queensland ,947,942, $2.00 ," $1,894.00 ", $2.95 , $-   ," $2,778.90 ",17/6/2022,9, September ,2021,strongly diagree,I like your product 
+1655,Lettuce,Market, Complete Food Services , Tasmania ,344,339, $1.50 , $516.00 , $2.45 , $-   , $830.55 ,18/6/2022,10, October ,2021,agree,I don't like this product 
+1656,Tomatoes,Market, Japan Foods Trading , Western Australia  ,2157,2152, $1.75 ," $3,774.75 ", $2.70 , $-   ," $5,810.40 ",19/6/2022,12, December ,2021,disagree,product was very fresh thanks
+1657,Squash,Market, Basfoods Direct , South Australia  ,380,375, $2.00 , $760.00 , $2.95 , $-   ," $1,106.25 ",20/6/2022,9, September ,2021,Extremely Poor,product was notvery fresh thanks
+1658,Celery,Grocery, Grocery Industries Australia Pty Ltd , Northern Territory ,886,881, $5.00 ," $4,430.00 ", $5.95 , $-   ," $5,241.95 ",21/6/2022,6, June ,2021,strongly agree,product was very fresh thanks
+1659,Cucumber,Market, Complete Food Services , The Australian Capital Territory ,2416,2411, $4.00 ," $9,664.00 ", $4.95 , $-   ," $11,934.45 ",22/6/2022,9, September ,2021,strongly diagree,product was not very fresh thanks
+1660,Mushrooms,Grocery, Japan Foods Trading , Northern Territory ,2156,2151, $3.50 ," $7,546.00 ", $4.45 , $-   ," $9,571.95 ",23/6/2022,10, October ,2021,strongly diagree,prodict not receive ontime
+1661,Milk ,Home Delivery, Basfoods Direct , The Australian Capital Territory ,2689,2684, $4.00 ," $10,756.00 ", $4.95 , $-   ," $13,285.80 ",24/6/2022,11, November ,2021,agree,customer service was very friendly 
+1662,Cheese,Home Delivery, Kahvecioglu Grand Foods , NSW  ,677,672, $2.50 ," $1,692.50 ", $3.45 , $-   ," $2,318.40 ",25/6/2022,3, March ,2021,disagree,no one response my email
+1663,Eggs,Home Delivery, NSM Foods Direct to Public Outlet Store , Queensland ,1773,1768, $5.00 ," $8,865.00 ", $5.95 , $-   ," $10,519.60 ",26/6/2022,4, April ,2021,strongly agree,"there was an issue with my order, team resolve very quickly"
+1664,Cottage cheese,Home Delivery, Bera Foods Wholesalers , Tasmania ,2420,2415, $11.00 ," $26,620.00 ", $11.95 , $-   ," $28,859.25 ",27/6/2022,9, September ,2021,strongly diagree,I like your product 
+1665,Sour cream,Home Delivery, Royal Foods Australia Pty. Ltd. , Western Australia  ,2734,2729, $7.00 ," $19,138.00 ", $7.95 , $-   ," $21,695.55 ",28/6/2022,10, October ,2021,agree,bad quality 
+1666,Yogurt,Grocery, Real Food Distributors , South Australia  ,1715,1710, $6.00 ," $10,290.00 ", $6.95 , $-   ," $11,884.50 ",29/6/2022,10, October ,2021,disagree,good quality 
+1667,Beef,Market, Quality Foods , Northern Territory ,1186,1181, $4.25 ," $5,040.50 ", $5.20 , $-   ," $6,141.20 ",30/6/2022,12, December ,2021,Extremely Poor,tasty 
+1668,Wild Salmon,Fish Market, First Ray , The Australian Capital Territory ,3495,3490, $12.00 ," $41,940.00 ", $12.95 , $-   ," $45,195.50 ",1/7/2022,1, January ,2021,strongly agree,I like your product 
+1669,Oranges,Grocery, Mediterranean Wholesalers , NSW  ,886,881, $20.00 ," $17,720.00 ", $20.95 , $-   ," $18,456.95 ",2/7/2022,6, June ,2021,strongly diagree,I don't like this product 
+1670,Apples,Orchard, Bruno Fine Foods , Queensland ,2156,2151, $3.00 ," $6,468.00 ", $3.95 , $-   ," $8,496.45 ",3/7/2022,10, October ,2021,strongly diagree,prodict not receive ontime
+1671,Bananas,Grocery, Basfoods Direct - Somerton Store , Tasmania ,905,900, $2.00 ," $1,810.00 ", $2.95 , $-   ," $2,655.00 ",4/7/2022,10, October ,2021,agree,receive ontime 
+1672,Lettuce,Market, Glendal Foods , Western Australia  ,1715,1710, $1.50 ," $2,572.50 ", $2.45 , $-   ," $4,189.50 ",5/7/2022,10, October ,2021,disagree,I like your product 
+1673,Tomatoes,Market, Grocery Industries Australia Pty Ltd , South Australia  ,1594,1589, $1.75 ," $2,789.50 ", $2.70 , $-   ," $4,290.30 ",6/7/2022,11, November ,2021,strongly agree,I don't like this product 
+1674,Squash,Market, Complete Food Services , Northern Territory ,1359,1354, $2.00 ," $2,718.00 ", $2.95 , $-   ," $3,994.30 ",7/7/2022,11, November ,2021,strongly diagree,product not receive ontime
+1675,Oranges,Grocery, Japan Foods Trading , The Australian Capital Territory ,2150,2145, $5.00 ," $10,750.00 ", $5.95 , $-   ," $12,762.75 ",8/7/2022,11, November ,2021,agree,receive ontime 
+1676,Apples,Orchard, Basfoods Direct , NSW  ,1197,1192, $4.00 ," $4,788.00 ", $4.95 , $-   ," $5,900.40 ",9/7/2022,11, November ,2021,disagree,I like your product 
+1677,Bananas,Grocery, Kahvecioglu Grand Foods , Queensland ,380,375, $3.50 ," $1,330.00 ", $4.45 , $-   ," $1,668.75 ",10/7/2022,12, December ,2021,Extremely Poor,I don't like this product 
+1678,Oranges,Grocery, NSM Foods Direct to Public Outlet Store , Tasmania ,1233,1228, $4.00 ," $4,932.00 ", $4.95 , $-   ," $6,078.60 ",11/7/2022,12, December ,2021,strongly agree,product was very fresh thanks
+1679,Apples,Orchard, Bera Foods Wholesalers , Western Australia  ,1395,1390, $2.50 ," $3,487.50 ", $3.45 , $-   ," $4,795.50 ",12/7/2022,7, July ,2021,strongly diagree,product was notvery fresh thanks
+1680,Bananas,Grocery, Grocery Industries Australia Pty Ltd , South Australia  ,986,981, $5.00 ," $4,930.00 ", $5.95 , $-   ," $5,836.95 ",13/7/2022,10, October ,2021,strongly diagree,product was very fresh thanks
+1681,Lettuce,Market, Complete Food Services , Northern Territory ,905,900, $11.00 ," $9,955.00 ", $11.95 , $-   ," $10,755.00 ",14/7/2022,10, October ,2021,agree,I like your product 
+1682,Tomatoes,Market, Japan Foods Trading , NSW  ,2109,2104, $7.00 ," $14,763.00 ", $7.95 , $-   ," $16,726.80 ",15/7/2022,5, May ,2021,disagree,I don't like this product 
+1683,Squash,Market, Basfoods Direct , Queensland ,3874.5,3869.5, $6.00 ," $23,247.00 ", $6.95 , $-   ," $26,893.03 ",16/7/2022,7, July ,2021,strongly agree,product was very fresh thanks
+1684,Celery,Grocery, Kahvecioglu Grand Foods , Tasmania ,623,618, $4.25 ," $2,647.75 ", $5.20 , $-   ," $3,213.60 ",17/7/2022,9, September ,2021,strongly diagree,product was notvery fresh thanks
+1685,Cucumber,Market, NSM Foods Direct to Public Outlet Store , Western Australia  ,986,981, $12.00 ," $11,832.00 ", $12.95 , $-   ," $12,703.95 ",18/7/2022,10, October ,2021,agree,product was very fresh thanks
+1686,Mushrooms,Grocery, Bera Foods Wholesalers , South Australia  ,2387,2382, $20.00 ," $47,740.00 ", $20.95 , $-   ," $49,902.90 ",19/7/2022,11, November ,2021,disagree,product was not very fresh thanks
+1687,Milk ,Home Delivery, Grocery Industries Australia Pty Ltd , Northern Territory ,1233,1228, $20.00 ," $24,660.00 ", $20.95 , $-   ," $25,726.60 ",20/7/2022,12, December ,2021,Extremely Poor,prodict not receive ontime
+1688,Cheese,Home Delivery, Complete Food Services , The Australian Capital Territory ,270,265, $3.00 , $810.00 , $3.95 , $-   ," $1,046.75 ",21/7/2022,2, February ,2021,strongly agree,customer service was very friendly 
+1689,Eggs,Home Delivery, Japan Foods Trading , NSW  ,3421.5,3416.5, $2.00 ," $6,843.00 ", $2.95 , $-   ," $10,078.68 ",22/7/2022,7, July ,2021,strongly diagree,no one response my email
+1690,Cottage cheese,Home Delivery, Basfoods Direct , Queensland ,2734,2729, $1.50 ," $4,101.00 ", $2.45 , $-   ," $6,686.05 ",23/7/2022,10, October ,2021,strongly diagree,"there was an issue with my order, team resolve very quickly"
+1691,Sour cream,Home Delivery, Grocery Industries Australia Pty Ltd , Tasmania ,2548,2543, $1.75 ," $4,459.00 ", $2.70 , $-   ," $6,866.10 ",24/7/2022,11, November ,2021,agree,I like your product 
+1692,Yogurt,Grocery, Complete Food Services , Western Australia  ,2521.5,2516.5, $2.00 ," $5,043.00 ", $2.95 , $-   ," $7,423.68 ",25/7/2022,1, January ,2021,disagree,bad quality 
+1693,Beef,Market, Japan Foods Trading , South Australia  ,2661,2656, $5.00 ," $13,305.00 ", $5.95 , $-   ," $15,803.20 ",26/7/2022,5, May ,2021,strongly agree,good quality 
+1694,Wild Salmon,Fish Market, Basfoods Direct , NSW  ,1531,1526, $4.00 ," $6,124.00 ", $4.95 , $-   ," $7,553.70 ",27/7/2022,12, December ,2021,strongly diagree,tasty 
+1695,Oranges,Grocery, Kahvecioglu Grand Foods , Queensland ,1491,1486, $3.50 ," $5,218.50 ", $4.45 , $-   ," $6,612.70 ",28/7/2022,3, March ,2021,agree,I like your product 
+1696,Apples,Orchard, NSM Foods Direct to Public Outlet Store , Tasmania ,1531,1526, $4.00 ," $6,124.00 ", $4.95 , $-   ," $7,553.70 ",29/7/2022,12, December ,2021,disagree,I don't like this product 
+1697,Bananas,Grocery, Bera Foods Wholesalers , Western Australia  ,2761,2756, $2.50 ," $6,902.50 ", $3.45 , $-   ," $9,508.20 ",30/7/2022,9, September ,2021,Extremely Poor,prodict not receive ontime
+1698,Lettuce,Market, Royal Foods Australia Pty. Ltd. , South Australia  ,2567,2562, $5.00 ," $12,835.00 ", $5.95 , $-   ," $15,243.90 ",31/7/2022,6, June ,2021,strongly agree,receive ontime 
+1699,Tomatoes,Market, Real Food Distributors , NSW  ,2567,2562, $11.00 ," $28,237.00 ", $11.95 , $-   ," $30,615.90 ",1/8/2022,6, June ,2021,strongly diagree,I like your product 
+1700,Squash,Market, Quality Foods , Queensland ,923,918, $7.00 ," $6,461.00 ", $7.95 , $-   ," $7,298.10 ",2/8/2022,3, March ,2021,strongly diagree,I don't like this product 
+1701,Oranges,Grocery, First Ray , Tasmania ,1790,1785, $6.00 ," $10,740.00 ", $6.95 , $-   ," $12,405.75 ",3/8/2022,3, March ,2021,agree,product not receive ontime
+1702,Oranges,Grocery, Mediterranean Wholesalers , Western Australia  ,442,437, $4.25 ," $1,878.50 ", $5.20 , $-   ," $2,272.40 ",4/8/2022,9, September ,2021,disagree,receive ontime 
+1703,Apples,Orchard, Bruno Fine Foods , South Australia  ,982.5,977.5, $12.00 ," $11,790.00 ", $12.95 , $-   ," $12,658.63 ",5/8/2022,1, January ,2021,strongly agree,I like your product 
+1704,Bananas,Grocery, Basfoods Direct - Somerton Store , Northern Territory ,1298,1293, $20.00 ," $25,960.00 ", $20.95 , $-   ," $27,088.35 ",6/8/2022,2, February ,2021,strongly diagree,I don't like this product 
+1705,Lettuce,Market, Glendal Foods , The Australian Capital Territory ,604,599, $12.00 ," $7,248.00 ", $12.95 , $-   ," $7,757.05 ",7/8/2022,6, June ,2021,agree,product was very fresh thanks
+1706,Tomatoes,Market, Grocery Industries Australia Pty Ltd , Northern Territory ,2255,2250, $3.00 ," $6,765.00 ", $3.95 , $-   ," $8,887.50 ",8/8/2022,7, July ,2021,disagree,product was notvery fresh thanks
+1707,Squash,Market, Complete Food Services , The Australian Capital Territory ,1249,1244, $2.00 ," $2,498.00 ", $2.95 , $-   ," $3,669.80 ",9/8/2022,10, October ,2021,Extremely Poor,product was very fresh thanks
+1708,Celery,Grocery, Japan Foods Trading , NSW  ,1438.5,1433.5, $1.50 ," $2,157.75 ", $2.45 , $-   ," $3,512.08 ",10/8/2022,1, January ,2021,strongly agree,I like your product 
+1709,Cucumber,Market, Basfoods Direct , Queensland ,807,802, $1.75 ," $1,412.25 ", $2.70 , $-   ," $2,165.40 ",11/8/2022,1, January ,2021,strongly diagree,I don't like this product 
+1710,Mushrooms,Grocery, Kahvecioglu Grand Foods , NSW  ,2641,2636, $2.00 ," $5,282.00 ", $2.95 , $-   ," $7,776.20 ",12/8/2022,2, February ,2021,strongly diagree,product was very fresh thanks
+1711,Milk ,Home Delivery, NSM Foods Direct to Public Outlet Store , Queensland ,2708,2703, $5.00 ," $13,540.00 ", $5.95 , $-   ," $16,082.85 ",13/8/2022,2, February ,2021,agree,product was notvery fresh thanks
+1712,Cheese,Home Delivery, Bera Foods Wholesalers , Tasmania ,2632,2627, $4.00 ," $10,528.00 ", $4.95 , $-   ," $13,003.65 ",14/8/2022,6, June ,2021,disagree,product was very fresh thanks
+1713,Eggs,Home Delivery, Grocery Industries Australia Pty Ltd , Western Australia  ,1583,1578, $3.50 ," $5,540.50 ", $4.45 , $-   ," $7,022.10 ",15/8/2022,6, June ,2021,strongly agree,product was not very fresh thanks
+1714,Cottage cheese,Home Delivery, Complete Food Services , South Australia  ,571,566, $4.00 ," $2,284.00 ", $4.95 , $-   ," $2,801.70 ",16/8/2022,7, July ,2021,strongly diagree,prodict not receive ontime
+1715,Sour cream,Home Delivery, Japan Foods Trading , Northern Territory ,2696,2691, $2.50 ," $6,740.00 ", $3.45 , $-   ," $9,283.95 ",17/8/2022,8, August ,2021,agree,customer service was very friendly 
+1716,Yogurt,Grocery, Basfoods Direct , The Australian Capital Territory ,1565,1560, $5.00 ," $7,825.00 ", $5.95 , $-   ," $9,282.00 ",18/8/2022,10, October ,2021,disagree,no one response my email
+1717,Beef,Market, Kahvecioglu Grand Foods , NSW  ,1249,1244, $11.00 ," $13,739.00 ", $11.95 , $-   ," $14,865.80 ",19/8/2022,10, October ,2021,Extremely Poor,"there was an issue with my order, team resolve very quickly"
+1718,Wild Salmon,Fish Market, NSM Foods Direct to Public Outlet Store , Queensland ,357,352, $7.00 ," $2,499.00 ", $7.95 , $-   ," $2,798.40 ",20/8/2022,11, November ,2021,strongly agree,I like your product 
+1719,Oranges,Grocery, Bera Foods Wholesalers , Tasmania ,1013,1008, $6.00 ," $6,078.00 ", $6.95 , $-   ," $7,005.60 ",21/8/2022,12, December ,2021,strongly diagree,bad quality 
+1720,Apples,Orchard, Grocery Industries Australia Pty Ltd , Western Australia  ,3997.5,3992.5, $4.25 ," $16,989.38 ", $5.20 , $-   ," $20,761.00 ",22/8/2022,1, January ,2021,strongly diagree,good quality 
+1721,Bananas,Grocery, Complete Food Services , South Australia  ,2632,2627, $12.00 ," $31,584.00 ", $12.95 , $-   ," $34,019.65 ",23/8/2022,6, June ,2021,agree,tasty 
+1722,Lettuce,Market, Japan Foods Trading , Northern Territory ,1190,1185, $20.00 ," $23,800.00 ", $20.95 , $-   ," $24,825.75 ",24/8/2022,6, June ,2021,disagree,I like your product 
+1723,Tomatoes,Market, Basfoods Direct , NSW  ,604,599, $12.00 ," $7,248.00 ", $12.95 , $-   ," $7,757.05 ",25/8/2022,6, June ,2021,strongly agree,I don't like this product 
+1724,Squash,Market, Grocery Industries Australia Pty Ltd , Queensland ,660,655, $3.00 ," $1,980.00 ", $3.95 , $-   ," $2,587.25 ",26/8/2022,9, September ,2021,strongly diagree,prodict not receive ontime
+1725,Oranges,Grocery, Complete Food Services , Tasmania ,410,405, $2.00 , $820.00 , $2.95 , $-   ," $1,194.75 ",27/8/2022,10, October ,2021,agree,receive ontime 
+1726,Oranges,Grocery, Japan Foods Trading , Western Australia  ,2605,2600, $1.50 ," $3,907.50 ", $2.45 , $-   ," $6,370.00 ",28/8/2022,11, November ,2021,disagree,I like your product 
+1727,Apples,Orchard, Basfoods Direct , South Australia  ,1013,1008, $1.75 ," $1,772.75 ", $2.70 , $-   ," $2,721.60 ",29/8/2022,12, December ,2021,Extremely Poor,I don't like this product 
+1728,Bananas,Grocery, Kahvecioglu Grand Foods , Northern Territory ,1583,1578, $2.00 ," $3,166.00 ", $2.95 , $-   ," $4,655.10 ",30/8/2022,6, June ,2021,strongly agree,product not receive ontime
+1729,Lettuce,Market, NSM Foods Direct to Public Outlet Store , The Australian Capital Territory ,1565,1560, $5.00 ," $7,825.00 ", $5.95 , $-   ," $9,282.00 ",31/8/2022,10, October ,2021,strongly diagree,receive ontime 
+1730,Tomatoes,Market, Royal Foods Australia Pty. Ltd. , NSW  ,1659,1654, $4.00 ," $6,636.00 ", $4.95 , $-   ," $8,187.30 ",1/9/2022,1, January ,2021,strongly diagree,I like your product 
+1731,Squash,Market, Real Food Distributors , Queensland ,1190,1185, $3.50 ," $4,165.00 ", $4.45 , $-   ," $5,273.25 ",2/9/2022,6, June ,2021,agree,I don't like this product 
+1732,Celery,Grocery, Quality Foods , Tasmania ,410,405, $4.00 ," $1,640.00 ", $4.95 , $-   ," $2,004.75 ",3/9/2022,10, October ,2021,disagree,product was very fresh thanks
+1733,Cucumber,Market, First Ray , Western Australia  ,1770,1765, $2.50 ," $4,425.00 ", $3.45 , $-   ," $6,089.25 ",4/9/2022,12, December ,2021,strongly agree,product was notvery fresh thanks
+1734,Mushrooms,Grocery, Mediterranean Wholesalers , South Australia  ,2579,2574, $5.00 ," $12,895.00 ", $5.95 , $-   ," $15,315.30 ",5/9/2022,4, April ,2021,strongly diagree,product was very fresh thanks
+1735,Milk ,Home Delivery, Bruno Fine Foods , NSW  ,1743,1738, $11.00 ," $19,173.00 ", $11.95 , $-   ," $20,769.10 ",6/9/2022,5, May ,2021,agree,I like your product 
+1736,Cheese,Home Delivery, Basfoods Direct - Somerton Store , Queensland ,2996,2991, $7.00 ," $20,972.00 ", $7.95 , $-   ," $23,778.45 ",7/9/2022,10, October ,2021,disagree,I don't like this product 
+1737,Eggs,Home Delivery, Glendal Foods , Tasmania ,280,275, $6.00 ," $1,680.00 ", $6.95 , $-   ," $1,911.25 ",8/9/2022,12, December ,2021,Extremely Poor,product was very fresh thanks
+1738,Cottage cheese,Home Delivery, Grocery Industries Australia Pty Ltd , Western Australia  ,293,288, $4.25 ," $1,245.25 ", $5.20 , $-   ," $1,497.60 ",9/9/2022,2, February ,2021,strongly agree,product was notvery fresh thanks
+1739,Sour cream,Home Delivery, Complete Food Services , South Australia  ,2996,2991, $12.00 ," $35,952.00 ", $12.95 , $-   ," $38,733.45 ",10/9/2022,10, October ,2021,strongly diagree,product was very fresh thanks
+1740,Yogurt,Grocery, Japan Foods Trading , NSW  ,278,273, $20.00 ," $5,560.00 ", $20.95 , $-   ," $5,719.35 ",11/9/2022,2, February ,2021,strongly diagree,product was not very fresh thanks
+1741,Beef,Market, Basfoods Direct , Queensland ,2428,2423, $12.00 ," $29,136.00 ", $12.95 , $-   ," $31,377.85 ",12/9/2022,3, March ,2021,agree,prodict not receive ontime
+1742,Wild Salmon,Fish Market, Kahvecioglu Grand Foods , Tasmania ,1767,1762, $3.00 ," $5,301.00 ", $3.95 , $-   ," $6,959.90 ",13/9/2022,9, September ,2021,disagree,customer service was very friendly 
+1743,Oranges,Grocery, NSM Foods Direct to Public Outlet Store , Western Australia  ,1393,1388, $2.00 ," $2,786.00 ", $2.95 , $-   ," $4,094.60 ",14/9/2022,10, October ,2021,strongly agree,no one response my email
+1744,Apples,Orchard, Bera Foods Wholesalers , South Australia  ,280,275, $1.50 , $420.00 , $2.45 , $-   , $673.75 ,15/9/2022,12, December ,2021,strongly diagree,"there was an issue with my order, team resolve very quickly"
+1745,Bananas,Grocery, Grocery Industries Australia Pty Ltd , Northern Territory ,1393,1388, $1.75 ," $2,437.75 ", $2.70 , $-   ," $3,747.60 ",16/9/2022,10, October ,2021,agree,I like your product 
+1746,Lettuce,Market, Complete Food Services , The Australian Capital Territory ,2015,2010, $2.00 ," $4,030.00 ", $2.95 , $-   ," $5,929.50 ",17/9/2022,12, December ,2021,disagree,bad quality 
+1747,Tomatoes,Market, Japan Foods Trading , Northern Territory ,801,796, $5.00 ," $4,005.00 ", $5.95 , $-   ," $4,736.20 ",18/9/2022,7, July ,2021,Extremely Poor,good quality 
+1748,Squash,Market, Basfoods Direct , The Australian Capital Territory ,1023,1018, $4.00 ," $4,092.00 ", $4.95 , $-   ," $5,039.10 ",19/9/2022,9, September ,2021,strongly agree,tasty 
+1749,Oranges,Grocery, Kahvecioglu Grand Foods , NSW  ,1496,1491, $3.50 ," $5,236.00 ", $4.45 , $-   ," $6,634.95 ",20/9/2022,10, October ,2021,strongly diagree,I like your product 
+1750,Oranges,Grocery, NSM Foods Direct to Public Outlet Store , Queensland ,1010,1005, $4.00 ," $4,040.00 ", $4.95 , $-   ," $4,974.75 ",21/9/2022,10, October ,2021,strongly diagree,I don't like this product 
+1751,Apples,Orchard, Bera Foods Wholesalers , Tasmania ,1513,1508, $2.50 ," $3,782.50 ", $3.45 , $-   ," $5,202.60 ",22/9/2022,11, November ,2021,agree,prodict not receive ontime
+1752,Bananas,Grocery, Grocery Industries Australia Pty Ltd , Western Australia  ,2300,2295, $5.00 ," $11,500.00 ", $5.95 , $-   ," $13,655.25 ",23/9/2022,12, December ,2021,disagree,receive ontime 
+1753,Lettuce,Market, Complete Food Services , South Australia  ,2821,2816, $11.00 ," $31,031.00 ", $11.95 , $-   ," $33,651.20 ",24/9/2022,12, December ,2021,strongly agree,I like your product 
+1754,Tomatoes,Market, Japan Foods Trading , Northern Territory ,2227.5,2222.5, $7.00 ," $15,592.50 ", $7.95 , $-   ," $17,668.88 ",25/9/2022,1, January ,2021,strongly diagree,I don't like this product 
+1755,Squash,Market, Basfoods Direct , The Australian Capital Territory ,1199,1194, $6.00 ," $7,194.00 ", $6.95 , $-   ," $8,298.30 ",26/9/2022,4, April ,2021,agree,product not receive ontime
+1756,Celery,Grocery, Grocery Industries Australia Pty Ltd , NSW  ,200,195, $4.25 , $850.00 , $5.20 , $-   ," $1,014.00 ",27/9/2022,5, May ,2021,disagree,receive ontime 
+1757,Cucumber,Market, Complete Food Services , Queensland ,388,383, $12.00 ," $4,656.00 ", $12.95 , $-   ," $4,959.85 ",28/9/2022,9, September ,2021,Extremely Poor,I like your product 
+1758,Mushrooms,Grocery, Japan Foods Trading , Tasmania ,1727,1722, $20.00 ," $34,540.00 ", $20.95 , $-   ," $36,075.90 ",29/9/2022,10, October ,2021,strongly agree,I don't like this product 
+1759,Milk ,Home Delivery, Basfoods Direct , Western Australia  ,2300,2295, $12.00 ," $27,600.00 ", $12.95 , $-   ," $29,720.25 ",30/9/2022,12, December ,2021,strongly diagree,product was very fresh thanks
+1760,Cheese,Home Delivery, Kahvecioglu Grand Foods , South Australia  ,260,255, $3.00 , $780.00 , $3.95 , $-   ," $1,007.25 ",1/10/2022,2, February ,2021,strongly diagree,product was notvery fresh thanks
+1761,Eggs,Home Delivery, NSM Foods Direct to Public Outlet Store , Northern Territory ,2470,2465, $2.00 ," $4,940.00 ", $2.95 , $-   ," $7,271.75 ",2/10/2022,9, September ,2021,agree,product was very fresh thanks
+1762,Cottage cheese,Home Delivery, Bera Foods Wholesalers , The Australian Capital Territory ,1743,1738, $1.50 ," $2,614.50 ", $2.45 , $-   ," $4,258.10 ",3/10/2022,10, October ,2021,disagree,I like your product 
+1763,Sour cream,Home Delivery, Royal Foods Australia Pty. Ltd. , NSW  ,2914,2909, $1.75 ," $5,099.50 ", $2.70 , $-   ," $7,854.30 ",4/10/2022,10, October ,2021,strongly agree,I don't like this product 
+1764,Yogurt,Grocery, Real Food Distributors , Queensland ,1731,1726, $2.00 ," $3,462.00 ", $2.95 , $-   ," $5,091.70 ",5/10/2022,10, October ,2021,strongly diagree,product was very fresh thanks
+1765,Beef,Market, Quality Foods , Tasmania ,700,695, $5.00 ," $3,500.00 ", $5.95 , $-   ," $4,135.25 ",6/10/2022,11, November ,2021,agree,product was notvery fresh thanks
+1766,Wild Salmon,Fish Market, First Ray , Western Australia  ,2222,2217, $4.00 ," $8,888.00 ", $4.95 , $-   ," $10,974.15 ",7/10/2022,11, November ,2021,disagree,product was very fresh thanks
+1767,Oranges,Grocery, Mediterranean Wholesalers , South Australia  ,1177,1172, $3.50 ," $4,119.50 ", $4.45 , $-   ," $5,215.40 ",8/10/2022,11, November ,2021,Extremely Poor,product was not very fresh thanks
+1768,Apples,Orchard, Bruno Fine Foods , Northern Territory ,1922,1917, $4.00 ," $7,688.00 ", $4.95 , $-   ," $9,489.15 ",9/10/2022,11, November ,2021,strongly agree,prodict not receive ontime
+1769,Bananas,Grocery, Basfoods Direct - Somerton Store , NSW  ,1575,1570, $2.50 ," $3,937.50 ", $3.45 , $-   ," $5,416.50 ",10/10/2022,2, February ,2021,strongly diagree,customer service was very friendly 
+1770,Oranges,Grocery, Glendal Foods , Queensland ,606,601, $5.00 ," $3,030.00 ", $5.95 , $-   ," $3,575.95 ",11/10/2022,4, April ,2021,strongly diagree,no one response my email
+1771,Apples,Orchard, Grocery Industries Australia Pty Ltd , Tasmania ,2460,2455, $11.00 ," $27,060.00 ", $11.95 , $-   ," $29,337.25 ",12/10/2022,7, July ,2021,agree,"there was an issue with my order, team resolve very quickly"
+1772,Bananas,Grocery, Complete Food Services , Western Australia  ,269,264, $7.00 ," $1,883.00 ", $7.95 , $-   ," $2,098.80 ",13/10/2022,10, October ,2021,disagree,I like your product 
+1773,Lettuce,Market, Japan Foods Trading , South Australia  ,2536,2531, $6.00 ," $15,216.00 ", $6.95 , $-   ," $17,590.45 ",14/10/2022,11, November ,2021,strongly agree,bad quality 
+1774,Tomatoes,Market, Basfoods Direct , Northern Territory ,2903,2898, $4.25 ," $12,337.75 ", $5.20 , $-   ," $15,069.60 ",15/10/2022,3, March ,2021,strongly diagree,good quality 
+1775,Squash,Market, Kahvecioglu Grand Foods , The Australian Capital Territory ,2541,2536, $12.00 ," $30,492.00 ", $12.95 , $-   ," $32,841.20 ",16/10/2022,8, August ,2021,agree,tasty 
+1776,Celery,Grocery, NSM Foods Direct to Public Outlet Store , NSW  ,269,264, $20.00 ," $5,380.00 ", $20.95 , $-   ," $5,530.80 ",17/10/2022,10, October ,2021,disagree,I like your product 
+1777,Cucumber,Market, Bera Foods Wholesalers , Queensland ,1496,1491, $12.00 ," $17,952.00 ", $12.95 , $-   ," $19,308.45 ",18/10/2022,10, October ,2021,Extremely Poor,I don't like this product 
+1778,Mushrooms,Grocery, Grocery Industries Australia Pty Ltd , Tasmania ,1010,1005, $3.00 ," $3,030.00 ", $3.95 , $-   ," $3,969.75 ",19/10/2022,10, October ,2021,strongly agree,prodict not receive ontime
+1779,Milk ,Home Delivery, Complete Food Services , Western Australia  ,1281,1276, $2.00 ," $2,562.00 ", $2.95 , $-   ," $3,764.20 ",20/10/2022,12, December ,2021,strongly diagree,receive ontime 
+1780,Cheese,Home Delivery, Japan Foods Trading , South Australia  ,888,883, $1.50 ," $1,332.00 ", $2.45 , $-   ," $2,163.35 ",21/10/2022,3, March ,2021,strongly diagree,I like your product 
+1781,Eggs,Home Delivery, Basfoods Direct , NSW  ,2844,2839, $1.75 ," $4,977.00 ", $2.70 , $-   ," $7,665.30 ",22/10/2022,5, May ,2021,agree,I don't like this product 
+1782,Cottage cheese,Home Delivery, Kahvecioglu Grand Foods , Queensland ,2475,2470, $2.00 ," $4,950.00 ", $2.95 , $-   ," $7,286.50 ",23/10/2022,8, August ,2021,disagree,product not receive ontime
+1783,Sour cream,Home Delivery, NSM Foods Direct to Public Outlet Store , Tasmania ,1743,1738, $5.00 ," $8,715.00 ", $5.95 , $-   ," $10,341.10 ",24/10/2022,10, October ,2021,strongly agree,receive ontime 
+1784,Yogurt,Grocery, Bera Foods Wholesalers , Western Australia  ,2914,2909, $4.00 ," $11,656.00 ", $4.95 , $-   ," $14,399.55 ",25/10/2022,10, October ,2021,strongly diagree,I like your product 
+1785,Beef,Market, Grocery Industries Australia Pty Ltd , South Australia  ,1731,1726, $3.50 ," $6,058.50 ", $4.45 , $-   ," $7,680.70 ",26/10/2022,10, October ,2021,agree,I don't like this product 
+1786,Wild Salmon,Fish Market, Complete Food Services , NSW  ,1727,1722, $4.00 ," $6,908.00 ", $4.95 , $-   ," $8,523.90 ",27/10/2022,10, October ,2021,disagree,product was very fresh thanks
+1787,Oranges,Grocery, Japan Foods Trading , Queensland ,1870,1865, $2.50 ," $4,675.00 ", $3.45 , $-   ," $6,434.25 ",28/10/2022,11, November ,2021,Extremely Poor,product was notvery fresh thanks
+1788,Apples,Orchard, Royal Foods Australia Pty. Ltd. , Tasmania ,1174,1169, $5.00 ," $5,870.00 ", $5.95 , $-   ," $6,955.55 ",29/10/2022,8, August ,2021,strongly agree,product was very fresh thanks
+1789,Bananas,Grocery, Real Food Distributors , Western Australia  ,2767,2762, $11.00 ," $30,437.00 ", $11.95 , $-   ," $33,005.90 ",30/10/2022,8, August ,2021,strongly diagree,I like your product 
+1790,Lettuce,Market, Quality Foods , South Australia  ,1085,1080, $7.00 ," $7,595.00 ", $7.95 , $-   ," $8,586.00 ",31/10/2022,10, October ,2021,strongly diagree,I don't like this product 
+1791,Tomatoes,Market, First Ray , Northern Territory ,546,541, $6.00 ," $3,276.00 ", $6.95 , $-   ," $3,759.95 ",1/11/2022,10, October ,2021,agree,product was very fresh thanks
+1792,Squash,Market, Mediterranean Wholesalers , The Australian Capital Territory ,1158,1153, $4.25 ," $4,921.50 ", $5.20 , $-   ," $5,995.60 ",2/11/2022,3, March ,2021,disagree,product was notvery fresh thanks
+1793,Oranges,Grocery, Bruno Fine Foods , Northern Territory ,1614,1609, $12.00 ," $19,368.00 ", $12.95 , $-   ," $20,836.55 ",3/11/2022,4, April ,2021,strongly agree,product was very fresh thanks
+1794,Oranges,Grocery, Basfoods Direct - Somerton Store , The Australian Capital Territory ,2535,2530, $20.00 ," $50,700.00 ", $20.95 , $-   ," $53,003.50 ",4/11/2022,4, April ,2021,strongly diagree,product was not very fresh thanks
+1795,Apples,Orchard, Glendal Foods , NSW  ,2851,2846, $12.00 ," $34,212.00 ", $12.95 , $-   ," $36,855.70 ",5/11/2022,5, May ,2021,agree,prodict not receive ontime
+1796,Bananas,Grocery, Grocery Industries Australia Pty Ltd , Queensland ,2559,2554, $3.00 ," $7,677.00 ", $3.95 , $-   ," $10,088.30 ",6/11/2022,8, August ,2021,disagree,customer service was very friendly 
+1797,Lettuce,Market, Complete Food Services , Tasmania ,267,262, $2.00 , $534.00 , $2.95 , $-   , $772.90 ,7/11/2022,10, October ,2021,Extremely Poor,no one response my email
+1798,Tomatoes,Market, Japan Foods Trading , Western Australia  ,1085,1080, $1.50 ," $1,627.50 ", $2.45 , $-   ," $2,646.00 ",8/11/2022,10, October ,2021,strongly agree,"there was an issue with my order, team resolve very quickly"
+1799,Squash,Market, Basfoods Direct , South Australia  ,1175,1170, $1.75 ," $2,056.25 ", $2.70 , $-   ," $3,159.00 ",9/11/2022,10, October ,2021,strongly diagree,I like your product 
+1800,Celery,Grocery, Kahvecioglu Grand Foods , Northern Territory ,2007,2002, $2.00 ," $4,014.00 ", $2.95 , $-   ," $5,905.90 ",10/11/2022,11, November ,2021,strongly diagree,bad quality 
+1801,Cucumber,Market, NSM Foods Direct to Public Outlet Store , The Australian Capital Territory ,2151,2146, $5.00 ," $10,755.00 ", $5.95 , $-   ," $12,768.70 ",11/11/2022,11, November ,2021,agree,good quality 
+1802,Mushrooms,Grocery, Bera Foods Wholesalers , NSW  ,914,909, $4.00 ," $3,656.00 ", $4.95 , $-   ," $4,499.55 ",12/11/2022,12, December ,2021,disagree,tasty 
+1803,Milk ,Home Delivery, Grocery Industries Australia Pty Ltd , Queensland ,293,288, $3.50 ," $1,025.50 ", $4.45 , $-   ," $1,281.60 ",13/11/2022,12, December ,2021,strongly agree,I like your product 
+1804,Cheese,Home Delivery, Complete Food Services , Tasmania ,500,495, $4.00 ," $2,000.00 ", $4.95 , $-   ," $2,450.25 ",14/11/2022,3, March ,2021,strongly diagree,I don't like this product 
+1805,Eggs,Home Delivery, Japan Foods Trading , Western Australia  ,2826,2821, $2.50 ," $7,065.00 ", $3.45 , $-   ," $9,732.45 ",15/11/2022,5, May ,2021,agree,prodict not receive ontime
+1806,Cottage cheese,Home Delivery, Basfoods Direct , South Australia  ,663,658, $5.00 ," $3,315.00 ", $5.95 , $-   ," $3,915.10 ",16/11/2022,9, September ,2021,disagree,receive ontime 
+1807,Sour cream,Home Delivery, Kahvecioglu Grand Foods , Northern Territory ,2574,2569, $11.00 ," $28,314.00 ", $11.95 , $-   ," $30,699.55 ",17/11/2022,11, November ,2021,Extremely Poor,I like your product 
+1808,Yogurt,Grocery, NSM Foods Direct to Public Outlet Store , The Australian Capital Territory ,2438,2433, $7.00 ," $17,066.00 ", $7.95 , $-   ," $19,342.35 ",18/11/2022,12, December ,2021,strongly agree,I don't like this product 
+1809,Beef,Market, Bera Foods Wholesalers , NSW  ,914,909, $6.00 ," $5,484.00 ", $6.95 , $-   ," $6,317.55 ",19/11/2022,12, December ,2021,strongly diagree,product not receive ontime
+1810,Wild Salmon,Fish Market, Grocery Industries Australia Pty Ltd , Queensland ,865.5,860.5, $4.25 ," $3,678.38 ", $5.20 , $-   ," $4,474.60 ",20/11/2022,7, July ,2021,strongly diagree,receive ontime 
+1811,Oranges,Grocery, Complete Food Services , Tasmania ,492,487, $12.00 ," $5,904.00 ", $12.95 , $-   ," $6,306.65 ",21/11/2022,7, July ,2021,agree,I like your product 
+1812,Apples,Orchard, Japan Foods Trading , Western Australia  ,267,262, $20.00 ," $5,340.00 ", $20.95 , $-   ," $5,488.90 ",22/11/2022,10, October ,2021,disagree,I don't like this product 
+1813,Bananas,Grocery, Basfoods Direct , South Australia  ,1175,1170, $12.00 ," $14,100.00 ", $12.95 , $-   ," $15,151.50 ",23/11/2022,10, October ,2021,strongly agree,product was very fresh thanks
+1814,Lettuce,Market, Grocery Industries Australia Pty Ltd , Northern Territory ,2954,2949, $11.00 ," $32,494.00 ", $11.95 , $-   ," $35,240.55 ",24/11/2022,11, November ,2021,strongly diagree,product was notvery fresh thanks
+1815,Tomatoes,Market, Complete Food Services , NSW  ,552,547, $7.00 ," $3,864.00 ", $7.95 , $-   ," $4,348.65 ",25/11/2022,11, November ,2021,agree,product was very fresh thanks
+1816,Squash,Market, Japan Foods Trading , Queensland ,293,288, $6.00 ," $1,758.00 ", $6.95 , $-   ," $2,001.60 ",26/11/2022,12, December ,2021,disagree,I like your product 
+1817,Oranges,Grocery, Basfoods Direct , Tasmania ,2475,2470, $4.25 ," $10,518.75 ", $5.20 , $-   ," $12,844.00 ",27/11/2022,3, March ,2021,Extremely Poor,receive ontime 
+1818,Apples,Orchard, Kahvecioglu Grand Foods , Western Australia  ,546,541, $12.00 ," $6,552.00 ", $12.95 , $-   ," $7,005.95 ",28/11/2022,10, October ,2021,strongly agree,I like your product 
+1819,Bananas,Grocery, NSM Foods Direct to Public Outlet Store , South Australia  ,1368,1363, $20.00 ," $27,360.00 ", $20.95 , $-   ," $28,554.85 ",29/11/2022,2, February ,2021,strongly diagree,I don't like this product 
+1820,Lettuce,Market, Bera Foods Wholesalers , Northern Territory ,723,718, $12.00 ," $8,676.00 ", $12.95 , $-   ," $9,298.10 ",30/11/2022,4, April ,2021,strongly diagree,product was very fresh thanks
+1821,Tomatoes,Market, Royal Foods Australia Pty. Ltd. , The Australian Capital Territory ,1806,1801, $12.00 ," $21,672.00 ", $12.95 , $-   ," $23,322.95 ",1/12/2022,5, May ,2021,agree,product was notvery fresh thanks
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
